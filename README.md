@@ -3,25 +3,35 @@
 ##Ubuntu Notes
 
 Had to manually get thrift and antlr3 packs
- | https://github.com/apache/thrift
+```
+https://github.com/apache/thrift
+```
 thrift compile only worked with cmake
 It wouldn't build on clang
 Thrift only worked with these options:
- | CXXFLAGS="-fPIC" cmake .
- | make
- | make install
+```
+CXXFLAGS="-fPIC" cmake .
+make
+make install
+```
 Other people reported this was necessary:
-#CPPFLAGS='-DHAVE_CONFIG_H'
-#Didnt work: ./configure --with-cpp=yes --with-nodejs=no --with-python=no
-Included also here:
- | https://github.com/antlr/antlr3
-Then ran
- | sudo apt-get install libaio-dev ninja-build ragel libhwloc-dev libnuma-dev libpciaccess-dev libcrypto++-dev libboost-all-dev libxen-dev libxml2-dev xfslibs-dev g++ libsystemd0 libgnutls-dev libsystemd-dev liblz4-dev libsnappy-dev
-libnuma-dev numactl libjsoncpp-dev libaio-dev
- | ./configure.py --mode=release --with=scylla --disable-xen --cflags="-I/usr/include -Iantlr3/runtime/Cpp/include"
-Had to manually remove -Werror from a couple of locations in build.ninja
- | ninja build/release/scylla -j2
+CPPFLAGS='-DHAVE_CONFIG_H'
+But didnt work: ./configure --with-cpp=yes --with-nodejs=no --with-python=no
 
+Included also here:
+```
+https://github.com/antlr/antlr3
+```
+Then ran
+```
+sudo apt-get install libaio-dev ninja-build ragel libhwloc-dev libnuma-dev libpciaccess-dev libcrypto++-dev libboost-all-dev libxen-dev libxml2-dev xfslibs-dev g++ libsystemd0 libgnutls-dev libsystemd-dev liblz4-dev libsnappy-dev
+libnuma-dev numactl libjsoncpp-dev libaio-dev
+./configure.py --mode=release --with=scylla --disable-xen --cflags="-I/usr/include -Iantlr3/runtime/Cpp/include"
+```
+Then had to manually remove -Werror from a couple of locations in build.ninja
+```
+ninja build/release/scylla -j2
+```
 It looks like clang is incompatible on my machine due to the new cx11 ABI, so use g++
 
 
