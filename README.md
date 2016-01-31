@@ -1,5 +1,8 @@
 #Scylla
 
+##Why is this here?
+If you were like me you'd fond Scylla deb packages broken, and if you looked for alternatives theres nothing available for Ubuntu/debian elsewhere - I gave it an hour - and then gave up - but ping me if you get further :) - I hope this helps!
+
 ##Ubuntu Notes
 
 Had to manually get thrift and antlr3 packs
