@@ -1,0 +1,2 @@
+/usr/bin/ar cq ../../lib/liblibparse.a  CMakeFiles/libparse.dir/thrifty.cc.o CMakeFiles/libparse.dir/thriftl.cc.o
+/usr/bin/ranlib ../../lib/liblibparse.a

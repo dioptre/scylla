@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/testbufferedtransport.dir/testbufferedtransport.c.o  -o ../../../bin/testbufferedtransport -rdynamic ../../libthrift_c_glib.so.1.0.0 -lglib-2.0 -lgobject-2.0 -Wl,-rpath,/home/a/thrift/lib 

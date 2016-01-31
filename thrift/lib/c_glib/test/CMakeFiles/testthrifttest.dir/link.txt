@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/testthrifttest.dir/testthrifttest.c.o CMakeFiles/testthrifttest.dir/__/__/__/test/c_glib/src/thrift_test_handler.c.o  -o ../../../bin/testthrifttest -rdynamic ../../libtestgenc.a ../../libthrift_c_glib.so.1.0.0 -lglib-2.0 -lgobject-2.0 -Wl,-rpath,/home/a/thrift/lib 

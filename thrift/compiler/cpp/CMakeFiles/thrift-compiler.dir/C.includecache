@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/a/thrift/compiler/cpp/src/md5.c
+md5.h
+/home/a/thrift/compiler/cpp/src/md5.h
+string.h
+-
+
+/home/a/thrift/compiler/cpp/src/md5.h
+

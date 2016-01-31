@@ -1,0 +1,1 @@
+/usr/bin/c++   -fPIC    CMakeFiles/TutorialClient.dir/CppClient.cpp.o  -o ../../bin/TutorialClient -rdynamic ../../lib/libtutorialgencpp.a ../../lib/libthrift.so.1.0.0 -lz -lssl -lcrypto -lpthread -Wl,-rpath,/home/a/thrift/lib 

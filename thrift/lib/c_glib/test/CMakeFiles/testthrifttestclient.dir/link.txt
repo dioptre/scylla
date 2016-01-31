@@ -1,0 +1,1 @@
+/usr/bin/c++   -fPIC    CMakeFiles/testthrifttestclient.dir/testthrifttestclient.cpp.o  -o ../../../bin/testthrifttestclient -rdynamic ../../libtestgenc.a ../../libtestgenc_cpp.a -lz ../../libthrift_c_glib.so.1.0.0 -lglib-2.0 -lgobject-2.0 ../../libthrift.so.1.0.0 -lssl -lcrypto -lpthread -Wl,-rpath,/home/a/thrift/lib 

@@ -1,0 +1,1 @@
+/usr/bin/c++   -fPIC    CMakeFiles/concurrency_test.dir/concurrency/Tests.cpp.o CMakeFiles/concurrency_test.dir/concurrency_test_automoc.cpp.o  -o ../../../bin/concurrency_test -rdynamic ../../libthrift.so.1.0.0 -lssl -lcrypto -lpthread -Wl,-rpath,/home/a/thrift/lib 

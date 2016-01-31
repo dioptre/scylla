@@ -1,0 +1,1 @@
+/usr/bin/c++   -fPIC    CMakeFiles/Benchmark.dir/Benchmark.cpp.o CMakeFiles/Benchmark.dir/Benchmark_automoc.cpp.o  -o ../../../bin/Benchmark -rdynamic ../../libtestgencpp.a ../../libthrift.so.1.0.0 ../../libtestgencpp.a -lssl -lcrypto -lpthread -Wl,-rpath,/home/a/thrift/lib 

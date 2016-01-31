@@ -1,0 +1,1 @@
+/usr/bin/c++   -fPIC    CMakeFiles/EnumTest.dir/EnumTest.cpp.o CMakeFiles/EnumTest.dir/EnumTest_automoc.cpp.o  -o ../../../bin/EnumTest -rdynamic ../../libtestgencpp.a -Wl,-Bstatic -lboost_chrono -lboost_filesystem -lboost_system -lboost_thread -lboost_unit_test_framework -Wl,-Bdynamic -lpthread ../../libthrift.so.1.0.0 -lssl -lcrypto -lpthread -Wl,-rpath,/home/a/thrift/lib 

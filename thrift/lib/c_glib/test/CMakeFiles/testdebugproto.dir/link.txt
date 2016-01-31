@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/testdebugproto.dir/testdebugproto.c.o  -o ../../../bin/testdebugproto -rdynamic ../../libtestgenc.a ../../libthrift_c_glib.so.1.0.0 -lglib-2.0 -lgobject-2.0 -Wl,-rpath,/home/a/thrift/lib 

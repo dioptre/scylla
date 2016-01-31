@@ -1,0 +1,2 @@
+/usr/bin/ar cq ../../libtestgenc_cpp.a  CMakeFiles/testgenc_cpp.dir/gen-cpp/ThriftTest.cpp.o CMakeFiles/testgenc_cpp.dir/gen-cpp/ThriftTest_constants.cpp.o CMakeFiles/testgenc_cpp.dir/gen-cpp/ThriftTest_types.cpp.o
+/usr/bin/ranlib ../../libtestgenc_cpp.a

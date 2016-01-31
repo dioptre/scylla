@@ -1,0 +1,42 @@
+file(REMOVE_RECURSE
+  "testgencpp_automoc.cpp"
+  "SecurityTest_automoc.cpp"
+  "JSONProtoTest_automoc.cpp"
+  "OptionalRequiredTest_automoc.cpp"
+  "TFileTransportTest_automoc.cpp"
+  "ZlibTest_automoc.cpp"
+  "TQTcpServerTest_automoc.cpp"
+  "Benchmark_automoc.cpp"
+  "EnumTest_automoc.cpp"
+  "TFDTransportTest_automoc.cpp"
+  "concurrency_test_automoc.cpp"
+  "TPipedTransportTest_automoc.cpp"
+  "TransportTest_automoc.cpp"
+  "link_test_automoc.cpp"
+  "RecursiveTest_automoc.cpp"
+  "AllProtocolsTest_automoc.cpp"
+  "DebugProtoTest_automoc.cpp"
+  "TServerIntegrationTest_automoc.cpp"
+  "TInterruptTest_automoc.cpp"
+  "testgencpp_cob_automoc.cpp"
+  "UnitTests_automoc.cpp"
+  "OpenSSLManualInitTest_automoc.cpp"
+  "SpecializationTest_automoc.cpp"
+  "gen-cpp/ChildService.cpp"
+  "gen-cpp/ChildService.h"
+  "gen-cpp/ParentService.cpp"
+  "gen-cpp/ParentService.h"
+  "gen-cpp/proc_types.cpp"
+  "gen-cpp/proc_types.h"
+  "CMakeFiles/link_test.dir/link/LinkTest.cpp.o"
+  "CMakeFiles/link_test.dir/link/TemplatedService1.cpp.o"
+  "CMakeFiles/link_test.dir/link/TemplatedService2.cpp.o"
+  "CMakeFiles/link_test.dir/link_test_automoc.cpp.o"
+  "../../../bin/link_test.pdb"
+  "../../../bin/link_test"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/link_test.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

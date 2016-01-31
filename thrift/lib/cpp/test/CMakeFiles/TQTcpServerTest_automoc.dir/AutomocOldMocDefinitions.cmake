@@ -1,0 +1,1 @@
+set(AM_OLD_COMPILE_SETTINGS "QT_CORE_LIB;QT_NETWORK_LIB;QT_NO_DEBUG;QT_TEST_LIB;__STDC_LIMIT_MACROS ~~~ /home/a/thrift/lib/cpp/test;/home/a/thrift/thrift;/home/a/thrift;/home/a/thrift/lib/cpp/src;/usr/include/qt4/QtCore;/usr/share/qt4/mkspecs/default;/usr/include/qt4;/usr/include/qt4/QtNetwork;/usr/include/qt4/QtTest;/usr/include ~~~  ~~~ TRUE ~~~ ")

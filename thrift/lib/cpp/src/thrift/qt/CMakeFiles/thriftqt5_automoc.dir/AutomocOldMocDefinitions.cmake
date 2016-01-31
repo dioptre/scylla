@@ -1,0 +1,1 @@
+set(AM_OLD_COMPILE_SETTINGS "QT_CORE_LIB;QT_NETWORK_LIB;QT_NO_DEBUG ~~~ /home/a/thrift/lib/cpp/src/thrift/qt;/home/a/thrift/thrift;/home/a/thrift;/home/a/thrift/lib/cpp/src;/usr/include/x86_64-linux-gnu/qt5;/usr/include/x86_64-linux-gnu/qt5/QtCore;/usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++-64;/usr/include/x86_64-linux-gnu/qt5/QtNetwork;/usr/include ~~~  ~~~ TRUE ~~~ ")

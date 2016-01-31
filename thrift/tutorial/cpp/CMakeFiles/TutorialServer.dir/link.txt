@@ -1,0 +1,1 @@
+/usr/bin/c++   -fPIC    CMakeFiles/TutorialServer.dir/CppServer.cpp.o  -o ../../bin/TutorialServer -rdynamic ../../lib/libtutorialgencpp.a ../../lib/libthrift.so.1.0.0 -lz -lssl -lcrypto -lpthread -Wl,-rpath,/home/a/thrift/lib 

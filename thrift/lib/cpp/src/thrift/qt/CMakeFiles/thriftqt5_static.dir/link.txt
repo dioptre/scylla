@@ -1,0 +1,2 @@
+/usr/bin/ar cq ../../../../libthriftqt5.a  CMakeFiles/thriftqt5_static.dir/TQIODeviceTransport.cpp.o CMakeFiles/thriftqt5_static.dir/TQTcpServer.cpp.o CMakeFiles/thriftqt5_static.dir/thriftqt5_static_automoc.cpp.o
+/usr/bin/ranlib ../../../../libthriftqt5.a

@@ -1,0 +1,1412 @@
+[
+{
+  "directory": "/home/a/thrift/compiler/cpp",
+  "command": "/usr/bin/c++    -fPIC  -I/home/a/thrift/compiler/cpp -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/compiler/cpp/src    -o CMakeFiles/libparse.dir/thrifty.cc.o -c /home/a/thrift/compiler/cpp/thrifty.cc",
+  "file": "/home/a/thrift/compiler/cpp/thrifty.cc"
+},
+{
+  "directory": "/home/a/thrift/compiler/cpp",
+  "command": "/usr/bin/c++    -fPIC  -I/home/a/thrift/compiler/cpp -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/compiler/cpp/src    -o CMakeFiles/libparse.dir/thriftl.cc.o -c /home/a/thrift/compiler/cpp/thriftl.cc",
+  "file": "/home/a/thrift/compiler/cpp/thriftl.cc"
+},
+{
+  "directory": "/home/a/thrift/compiler/cpp",
+  "command": "/usr/bin/c++    -fPIC  -I/home/a/thrift/compiler/cpp -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/compiler/cpp/src    -o CMakeFiles/thrift-compiler.dir/src/main.cc.o -c /home/a/thrift/compiler/cpp/src/main.cc",
+  "file": "/home/a/thrift/compiler/cpp/src/main.cc"
+},
+{
+  "directory": "/home/a/thrift/compiler/cpp",
+  "command": "/usr/bin/cc   -I/home/a/thrift/compiler/cpp -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/compiler/cpp/src    -o CMakeFiles/thrift-compiler.dir/src/md5.c.o   -c /home/a/thrift/compiler/cpp/src/md5.c",
+  "file": "/home/a/thrift/compiler/cpp/src/md5.c"
+},
+{
+  "directory": "/home/a/thrift/compiler/cpp",
+  "command": "/usr/bin/c++    -fPIC  -I/home/a/thrift/compiler/cpp -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/compiler/cpp/src    -o CMakeFiles/thrift-compiler.dir/src/generate/t_generator.cc.o -c /home/a/thrift/compiler/cpp/src/generate/t_generator.cc",
+  "file": "/home/a/thrift/compiler/cpp/src/generate/t_generator.cc"
+},
+{
+  "directory": "/home/a/thrift/compiler/cpp",
+  "command": "/usr/bin/c++    -fPIC  -I/home/a/thrift/compiler/cpp -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/compiler/cpp/src    -o CMakeFiles/thrift-compiler.dir/src/audit/t_audit.cpp.o -c /home/a/thrift/compiler/cpp/src/audit/t_audit.cpp",
+  "file": "/home/a/thrift/compiler/cpp/src/audit/t_audit.cpp"
+},
+{
+  "directory": "/home/a/thrift/compiler/cpp",
+  "command": "/usr/bin/c++    -fPIC  -I/home/a/thrift/compiler/cpp -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/compiler/cpp/src    -o CMakeFiles/thrift-compiler.dir/src/parse/t_typedef.cc.o -c /home/a/thrift/compiler/cpp/src/parse/t_typedef.cc",
+  "file": "/home/a/thrift/compiler/cpp/src/parse/t_typedef.cc"
+},
+{
+  "directory": "/home/a/thrift/compiler/cpp",
+  "command": "/usr/bin/c++    -fPIC  -I/home/a/thrift/compiler/cpp -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/compiler/cpp/src    -o CMakeFiles/thrift-compiler.dir/src/parse/parse.cc.o -c /home/a/thrift/compiler/cpp/src/parse/parse.cc",
+  "file": "/home/a/thrift/compiler/cpp/src/parse/parse.cc"
+},
+{
+  "directory": "/home/a/thrift/compiler/cpp",
+  "command": "/usr/bin/c++    -fPIC  -I/home/a/thrift/compiler/cpp -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/compiler/cpp/src    -o CMakeFiles/thrift-compiler.dir/src/generate/t_c_glib_generator.cc.o -c /home/a/thrift/compiler/cpp/src/generate/t_c_glib_generator.cc",
+  "file": "/home/a/thrift/compiler/cpp/src/generate/t_c_glib_generator.cc"
+},
+{
+  "directory": "/home/a/thrift/compiler/cpp",
+  "command": "/usr/bin/c++    -fPIC  -I/home/a/thrift/compiler/cpp -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/compiler/cpp/src    -o CMakeFiles/thrift-compiler.dir/src/generate/t_cpp_generator.cc.o -c /home/a/thrift/compiler/cpp/src/generate/t_cpp_generator.cc",
+  "file": "/home/a/thrift/compiler/cpp/src/generate/t_cpp_generator.cc"
+},
+{
+  "directory": "/home/a/thrift/compiler/cpp",
+  "command": "/usr/bin/c++    -fPIC  -I/home/a/thrift/compiler/cpp -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/compiler/cpp/src    -o CMakeFiles/thrift-compiler.dir/src/generate/t_java_generator.cc.o -c /home/a/thrift/compiler/cpp/src/generate/t_java_generator.cc",
+  "file": "/home/a/thrift/compiler/cpp/src/generate/t_java_generator.cc"
+},
+{
+  "directory": "/home/a/thrift/compiler/cpp",
+  "command": "/usr/bin/c++    -fPIC  -I/home/a/thrift/compiler/cpp -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/compiler/cpp/src    -o CMakeFiles/thrift-compiler.dir/src/generate/t_as3_generator.cc.o -c /home/a/thrift/compiler/cpp/src/generate/t_as3_generator.cc",
+  "file": "/home/a/thrift/compiler/cpp/src/generate/t_as3_generator.cc"
+},
+{
+  "directory": "/home/a/thrift/compiler/cpp",
+  "command": "/usr/bin/c++    -fPIC  -I/home/a/thrift/compiler/cpp -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/compiler/cpp/src    -o CMakeFiles/thrift-compiler.dir/src/generate/t_dart_generator.cc.o -c /home/a/thrift/compiler/cpp/src/generate/t_dart_generator.cc",
+  "file": "/home/a/thrift/compiler/cpp/src/generate/t_dart_generator.cc"
+},
+{
+  "directory": "/home/a/thrift/compiler/cpp",
+  "command": "/usr/bin/c++    -fPIC  -I/home/a/thrift/compiler/cpp -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/compiler/cpp/src    -o CMakeFiles/thrift-compiler.dir/src/generate/t_haxe_generator.cc.o -c /home/a/thrift/compiler/cpp/src/generate/t_haxe_generator.cc",
+  "file": "/home/a/thrift/compiler/cpp/src/generate/t_haxe_generator.cc"
+},
+{
+  "directory": "/home/a/thrift/compiler/cpp",
+  "command": "/usr/bin/c++    -fPIC  -I/home/a/thrift/compiler/cpp -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/compiler/cpp/src    -o CMakeFiles/thrift-compiler.dir/src/generate/t_csharp_generator.cc.o -c /home/a/thrift/compiler/cpp/src/generate/t_csharp_generator.cc",
+  "file": "/home/a/thrift/compiler/cpp/src/generate/t_csharp_generator.cc"
+},
+{
+  "directory": "/home/a/thrift/compiler/cpp",
+  "command": "/usr/bin/c++    -fPIC  -I/home/a/thrift/compiler/cpp -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/compiler/cpp/src    -o CMakeFiles/thrift-compiler.dir/src/generate/t_py_generator.cc.o -c /home/a/thrift/compiler/cpp/src/generate/t_py_generator.cc",
+  "file": "/home/a/thrift/compiler/cpp/src/generate/t_py_generator.cc"
+},
+{
+  "directory": "/home/a/thrift/compiler/cpp",
+  "command": "/usr/bin/c++    -fPIC  -I/home/a/thrift/compiler/cpp -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/compiler/cpp/src    -o CMakeFiles/thrift-compiler.dir/src/generate/t_rb_generator.cc.o -c /home/a/thrift/compiler/cpp/src/generate/t_rb_generator.cc",
+  "file": "/home/a/thrift/compiler/cpp/src/generate/t_rb_generator.cc"
+},
+{
+  "directory": "/home/a/thrift/compiler/cpp",
+  "command": "/usr/bin/c++    -fPIC  -I/home/a/thrift/compiler/cpp -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/compiler/cpp/src    -o CMakeFiles/thrift-compiler.dir/src/generate/t_perl_generator.cc.o -c /home/a/thrift/compiler/cpp/src/generate/t_perl_generator.cc",
+  "file": "/home/a/thrift/compiler/cpp/src/generate/t_perl_generator.cc"
+},
+{
+  "directory": "/home/a/thrift/compiler/cpp",
+  "command": "/usr/bin/c++    -fPIC  -I/home/a/thrift/compiler/cpp -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/compiler/cpp/src    -o CMakeFiles/thrift-compiler.dir/src/generate/t_php_generator.cc.o -c /home/a/thrift/compiler/cpp/src/generate/t_php_generator.cc",
+  "file": "/home/a/thrift/compiler/cpp/src/generate/t_php_generator.cc"
+},
+{
+  "directory": "/home/a/thrift/compiler/cpp",
+  "command": "/usr/bin/c++    -fPIC  -I/home/a/thrift/compiler/cpp -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/compiler/cpp/src    -o CMakeFiles/thrift-compiler.dir/src/generate/t_erl_generator.cc.o -c /home/a/thrift/compiler/cpp/src/generate/t_erl_generator.cc",
+  "file": "/home/a/thrift/compiler/cpp/src/generate/t_erl_generator.cc"
+},
+{
+  "directory": "/home/a/thrift/compiler/cpp",
+  "command": "/usr/bin/c++    -fPIC  -I/home/a/thrift/compiler/cpp -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/compiler/cpp/src    -o CMakeFiles/thrift-compiler.dir/src/generate/t_cocoa_generator.cc.o -c /home/a/thrift/compiler/cpp/src/generate/t_cocoa_generator.cc",
+  "file": "/home/a/thrift/compiler/cpp/src/generate/t_cocoa_generator.cc"
+},
+{
+  "directory": "/home/a/thrift/compiler/cpp",
+  "command": "/usr/bin/c++    -fPIC  -I/home/a/thrift/compiler/cpp -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/compiler/cpp/src    -o CMakeFiles/thrift-compiler.dir/src/generate/t_swift_generator.cc.o -c /home/a/thrift/compiler/cpp/src/generate/t_swift_generator.cc",
+  "file": "/home/a/thrift/compiler/cpp/src/generate/t_swift_generator.cc"
+},
+{
+  "directory": "/home/a/thrift/compiler/cpp",
+  "command": "/usr/bin/c++    -fPIC  -I/home/a/thrift/compiler/cpp -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/compiler/cpp/src    -o CMakeFiles/thrift-compiler.dir/src/generate/t_st_generator.cc.o -c /home/a/thrift/compiler/cpp/src/generate/t_st_generator.cc",
+  "file": "/home/a/thrift/compiler/cpp/src/generate/t_st_generator.cc"
+},
+{
+  "directory": "/home/a/thrift/compiler/cpp",
+  "command": "/usr/bin/c++    -fPIC  -I/home/a/thrift/compiler/cpp -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/compiler/cpp/src    -o CMakeFiles/thrift-compiler.dir/src/generate/t_ocaml_generator.cc.o -c /home/a/thrift/compiler/cpp/src/generate/t_ocaml_generator.cc",
+  "file": "/home/a/thrift/compiler/cpp/src/generate/t_ocaml_generator.cc"
+},
+{
+  "directory": "/home/a/thrift/compiler/cpp",
+  "command": "/usr/bin/c++    -fPIC  -I/home/a/thrift/compiler/cpp -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/compiler/cpp/src    -o CMakeFiles/thrift-compiler.dir/src/generate/t_hs_generator.cc.o -c /home/a/thrift/compiler/cpp/src/generate/t_hs_generator.cc",
+  "file": "/home/a/thrift/compiler/cpp/src/generate/t_hs_generator.cc"
+},
+{
+  "directory": "/home/a/thrift/compiler/cpp",
+  "command": "/usr/bin/c++    -fPIC  -I/home/a/thrift/compiler/cpp -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/compiler/cpp/src    -o CMakeFiles/thrift-compiler.dir/src/generate/t_xsd_generator.cc.o -c /home/a/thrift/compiler/cpp/src/generate/t_xsd_generator.cc",
+  "file": "/home/a/thrift/compiler/cpp/src/generate/t_xsd_generator.cc"
+},
+{
+  "directory": "/home/a/thrift/compiler/cpp",
+  "command": "/usr/bin/c++    -fPIC  -I/home/a/thrift/compiler/cpp -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/compiler/cpp/src    -o CMakeFiles/thrift-compiler.dir/src/generate/t_html_generator.cc.o -c /home/a/thrift/compiler/cpp/src/generate/t_html_generator.cc",
+  "file": "/home/a/thrift/compiler/cpp/src/generate/t_html_generator.cc"
+},
+{
+  "directory": "/home/a/thrift/compiler/cpp",
+  "command": "/usr/bin/c++    -fPIC  -I/home/a/thrift/compiler/cpp -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/compiler/cpp/src    -o CMakeFiles/thrift-compiler.dir/src/generate/t_js_generator.cc.o -c /home/a/thrift/compiler/cpp/src/generate/t_js_generator.cc",
+  "file": "/home/a/thrift/compiler/cpp/src/generate/t_js_generator.cc"
+},
+{
+  "directory": "/home/a/thrift/compiler/cpp",
+  "command": "/usr/bin/c++    -fPIC  -I/home/a/thrift/compiler/cpp -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/compiler/cpp/src    -o CMakeFiles/thrift-compiler.dir/src/generate/t_json_generator.cc.o -c /home/a/thrift/compiler/cpp/src/generate/t_json_generator.cc",
+  "file": "/home/a/thrift/compiler/cpp/src/generate/t_json_generator.cc"
+},
+{
+  "directory": "/home/a/thrift/compiler/cpp",
+  "command": "/usr/bin/c++    -fPIC  -I/home/a/thrift/compiler/cpp -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/compiler/cpp/src    -o CMakeFiles/thrift-compiler.dir/src/generate/t_javame_generator.cc.o -c /home/a/thrift/compiler/cpp/src/generate/t_javame_generator.cc",
+  "file": "/home/a/thrift/compiler/cpp/src/generate/t_javame_generator.cc"
+},
+{
+  "directory": "/home/a/thrift/compiler/cpp",
+  "command": "/usr/bin/c++    -fPIC  -I/home/a/thrift/compiler/cpp -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/compiler/cpp/src    -o CMakeFiles/thrift-compiler.dir/src/generate/t_delphi_generator.cc.o -c /home/a/thrift/compiler/cpp/src/generate/t_delphi_generator.cc",
+  "file": "/home/a/thrift/compiler/cpp/src/generate/t_delphi_generator.cc"
+},
+{
+  "directory": "/home/a/thrift/compiler/cpp",
+  "command": "/usr/bin/c++    -fPIC  -I/home/a/thrift/compiler/cpp -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/compiler/cpp/src    -o CMakeFiles/thrift-compiler.dir/src/generate/t_go_generator.cc.o -c /home/a/thrift/compiler/cpp/src/generate/t_go_generator.cc",
+  "file": "/home/a/thrift/compiler/cpp/src/generate/t_go_generator.cc"
+},
+{
+  "directory": "/home/a/thrift/compiler/cpp",
+  "command": "/usr/bin/c++    -fPIC  -I/home/a/thrift/compiler/cpp -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/compiler/cpp/src    -o CMakeFiles/thrift-compiler.dir/src/generate/t_d_generator.cc.o -c /home/a/thrift/compiler/cpp/src/generate/t_d_generator.cc",
+  "file": "/home/a/thrift/compiler/cpp/src/generate/t_d_generator.cc"
+},
+{
+  "directory": "/home/a/thrift/compiler/cpp",
+  "command": "/usr/bin/c++    -fPIC  -I/home/a/thrift/compiler/cpp -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/compiler/cpp/src    -o CMakeFiles/thrift-compiler.dir/src/generate/t_lua_generator.cc.o -c /home/a/thrift/compiler/cpp/src/generate/t_lua_generator.cc",
+  "file": "/home/a/thrift/compiler/cpp/src/generate/t_lua_generator.cc"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -Dthrift_EXPORTS -fPIC  -fPIC -I/home/a/thrift/lib/cpp -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/thrift.dir/src/thrift/TApplicationException.cpp.o -c /home/a/thrift/lib/cpp/src/thrift/TApplicationException.cpp",
+  "file": "/home/a/thrift/lib/cpp/src/thrift/TApplicationException.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -Dthrift_EXPORTS -fPIC  -fPIC -I/home/a/thrift/lib/cpp -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/thrift.dir/src/thrift/TOutput.cpp.o -c /home/a/thrift/lib/cpp/src/thrift/TOutput.cpp",
+  "file": "/home/a/thrift/lib/cpp/src/thrift/TOutput.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -Dthrift_EXPORTS -fPIC  -fPIC -I/home/a/thrift/lib/cpp -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/thrift.dir/src/thrift/async/TAsyncChannel.cpp.o -c /home/a/thrift/lib/cpp/src/thrift/async/TAsyncChannel.cpp",
+  "file": "/home/a/thrift/lib/cpp/src/thrift/async/TAsyncChannel.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -Dthrift_EXPORTS -fPIC  -fPIC -I/home/a/thrift/lib/cpp -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/thrift.dir/src/thrift/async/TConcurrentClientSyncInfo.cpp.o -c /home/a/thrift/lib/cpp/src/thrift/async/TConcurrentClientSyncInfo.cpp",
+  "file": "/home/a/thrift/lib/cpp/src/thrift/async/TConcurrentClientSyncInfo.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -Dthrift_EXPORTS -fPIC  -fPIC -I/home/a/thrift/lib/cpp -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/thrift.dir/src/thrift/concurrency/ThreadManager.cpp.o -c /home/a/thrift/lib/cpp/src/thrift/concurrency/ThreadManager.cpp",
+  "file": "/home/a/thrift/lib/cpp/src/thrift/concurrency/ThreadManager.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -Dthrift_EXPORTS -fPIC  -fPIC -I/home/a/thrift/lib/cpp -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/thrift.dir/src/thrift/concurrency/TimerManager.cpp.o -c /home/a/thrift/lib/cpp/src/thrift/concurrency/TimerManager.cpp",
+  "file": "/home/a/thrift/lib/cpp/src/thrift/concurrency/TimerManager.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -Dthrift_EXPORTS -fPIC  -fPIC -I/home/a/thrift/lib/cpp -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/thrift.dir/src/thrift/concurrency/Util.cpp.o -c /home/a/thrift/lib/cpp/src/thrift/concurrency/Util.cpp",
+  "file": "/home/a/thrift/lib/cpp/src/thrift/concurrency/Util.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -Dthrift_EXPORTS -fPIC  -fPIC -I/home/a/thrift/lib/cpp -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/thrift.dir/src/thrift/processor/PeekProcessor.cpp.o -c /home/a/thrift/lib/cpp/src/thrift/processor/PeekProcessor.cpp",
+  "file": "/home/a/thrift/lib/cpp/src/thrift/processor/PeekProcessor.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -Dthrift_EXPORTS -fPIC  -fPIC -I/home/a/thrift/lib/cpp -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/thrift.dir/src/thrift/protocol/TBase64Utils.cpp.o -c /home/a/thrift/lib/cpp/src/thrift/protocol/TBase64Utils.cpp",
+  "file": "/home/a/thrift/lib/cpp/src/thrift/protocol/TBase64Utils.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -Dthrift_EXPORTS -fPIC  -fPIC -I/home/a/thrift/lib/cpp -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/thrift.dir/src/thrift/protocol/TDebugProtocol.cpp.o -c /home/a/thrift/lib/cpp/src/thrift/protocol/TDebugProtocol.cpp",
+  "file": "/home/a/thrift/lib/cpp/src/thrift/protocol/TDebugProtocol.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -Dthrift_EXPORTS -fPIC  -fPIC -I/home/a/thrift/lib/cpp -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/thrift.dir/src/thrift/protocol/TJSONProtocol.cpp.o -c /home/a/thrift/lib/cpp/src/thrift/protocol/TJSONProtocol.cpp",
+  "file": "/home/a/thrift/lib/cpp/src/thrift/protocol/TJSONProtocol.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -Dthrift_EXPORTS -fPIC  -fPIC -I/home/a/thrift/lib/cpp -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/thrift.dir/src/thrift/protocol/TMultiplexedProtocol.cpp.o -c /home/a/thrift/lib/cpp/src/thrift/protocol/TMultiplexedProtocol.cpp",
+  "file": "/home/a/thrift/lib/cpp/src/thrift/protocol/TMultiplexedProtocol.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -Dthrift_EXPORTS -fPIC  -fPIC -I/home/a/thrift/lib/cpp -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/thrift.dir/src/thrift/protocol/TProtocol.cpp.o -c /home/a/thrift/lib/cpp/src/thrift/protocol/TProtocol.cpp",
+  "file": "/home/a/thrift/lib/cpp/src/thrift/protocol/TProtocol.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -Dthrift_EXPORTS -fPIC  -fPIC -I/home/a/thrift/lib/cpp -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/thrift.dir/src/thrift/transport/TTransportException.cpp.o -c /home/a/thrift/lib/cpp/src/thrift/transport/TTransportException.cpp",
+  "file": "/home/a/thrift/lib/cpp/src/thrift/transport/TTransportException.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -Dthrift_EXPORTS -fPIC  -fPIC -I/home/a/thrift/lib/cpp -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/thrift.dir/src/thrift/transport/TFDTransport.cpp.o -c /home/a/thrift/lib/cpp/src/thrift/transport/TFDTransport.cpp",
+  "file": "/home/a/thrift/lib/cpp/src/thrift/transport/TFDTransport.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -Dthrift_EXPORTS -fPIC  -fPIC -I/home/a/thrift/lib/cpp -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/thrift.dir/src/thrift/transport/TSimpleFileTransport.cpp.o -c /home/a/thrift/lib/cpp/src/thrift/transport/TSimpleFileTransport.cpp",
+  "file": "/home/a/thrift/lib/cpp/src/thrift/transport/TSimpleFileTransport.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -Dthrift_EXPORTS -fPIC  -fPIC -I/home/a/thrift/lib/cpp -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/thrift.dir/src/thrift/transport/THttpTransport.cpp.o -c /home/a/thrift/lib/cpp/src/thrift/transport/THttpTransport.cpp",
+  "file": "/home/a/thrift/lib/cpp/src/thrift/transport/THttpTransport.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -Dthrift_EXPORTS -fPIC  -fPIC -I/home/a/thrift/lib/cpp -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/thrift.dir/src/thrift/transport/THttpClient.cpp.o -c /home/a/thrift/lib/cpp/src/thrift/transport/THttpClient.cpp",
+  "file": "/home/a/thrift/lib/cpp/src/thrift/transport/THttpClient.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -Dthrift_EXPORTS -fPIC  -fPIC -I/home/a/thrift/lib/cpp -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/thrift.dir/src/thrift/transport/THttpServer.cpp.o -c /home/a/thrift/lib/cpp/src/thrift/transport/THttpServer.cpp",
+  "file": "/home/a/thrift/lib/cpp/src/thrift/transport/THttpServer.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -Dthrift_EXPORTS -fPIC  -fPIC -I/home/a/thrift/lib/cpp -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/thrift.dir/src/thrift/transport/TSocket.cpp.o -c /home/a/thrift/lib/cpp/src/thrift/transport/TSocket.cpp",
+  "file": "/home/a/thrift/lib/cpp/src/thrift/transport/TSocket.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -Dthrift_EXPORTS -fPIC  -fPIC -I/home/a/thrift/lib/cpp -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/thrift.dir/src/thrift/transport/TSocketPool.cpp.o -c /home/a/thrift/lib/cpp/src/thrift/transport/TSocketPool.cpp",
+  "file": "/home/a/thrift/lib/cpp/src/thrift/transport/TSocketPool.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -Dthrift_EXPORTS -fPIC  -fPIC -I/home/a/thrift/lib/cpp -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/thrift.dir/src/thrift/transport/TServerSocket.cpp.o -c /home/a/thrift/lib/cpp/src/thrift/transport/TServerSocket.cpp",
+  "file": "/home/a/thrift/lib/cpp/src/thrift/transport/TServerSocket.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -Dthrift_EXPORTS -fPIC  -fPIC -I/home/a/thrift/lib/cpp -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/thrift.dir/src/thrift/transport/TTransportUtils.cpp.o -c /home/a/thrift/lib/cpp/src/thrift/transport/TTransportUtils.cpp",
+  "file": "/home/a/thrift/lib/cpp/src/thrift/transport/TTransportUtils.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -Dthrift_EXPORTS -fPIC  -fPIC -I/home/a/thrift/lib/cpp -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/thrift.dir/src/thrift/transport/TBufferTransports.cpp.o -c /home/a/thrift/lib/cpp/src/thrift/transport/TBufferTransports.cpp",
+  "file": "/home/a/thrift/lib/cpp/src/thrift/transport/TBufferTransports.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -Dthrift_EXPORTS -fPIC  -fPIC -I/home/a/thrift/lib/cpp -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/thrift.dir/src/thrift/server/TConnectedClient.cpp.o -c /home/a/thrift/lib/cpp/src/thrift/server/TConnectedClient.cpp",
+  "file": "/home/a/thrift/lib/cpp/src/thrift/server/TConnectedClient.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -Dthrift_EXPORTS -fPIC  -fPIC -I/home/a/thrift/lib/cpp -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/thrift.dir/src/thrift/server/TServerFramework.cpp.o -c /home/a/thrift/lib/cpp/src/thrift/server/TServerFramework.cpp",
+  "file": "/home/a/thrift/lib/cpp/src/thrift/server/TServerFramework.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -Dthrift_EXPORTS -fPIC  -fPIC -I/home/a/thrift/lib/cpp -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/thrift.dir/src/thrift/server/TSimpleServer.cpp.o -c /home/a/thrift/lib/cpp/src/thrift/server/TSimpleServer.cpp",
+  "file": "/home/a/thrift/lib/cpp/src/thrift/server/TSimpleServer.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -Dthrift_EXPORTS -fPIC  -fPIC -I/home/a/thrift/lib/cpp -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/thrift.dir/src/thrift/server/TThreadPoolServer.cpp.o -c /home/a/thrift/lib/cpp/src/thrift/server/TThreadPoolServer.cpp",
+  "file": "/home/a/thrift/lib/cpp/src/thrift/server/TThreadPoolServer.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -Dthrift_EXPORTS -fPIC  -fPIC -I/home/a/thrift/lib/cpp -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/thrift.dir/src/thrift/server/TThreadedServer.cpp.o -c /home/a/thrift/lib/cpp/src/thrift/server/TThreadedServer.cpp",
+  "file": "/home/a/thrift/lib/cpp/src/thrift/server/TThreadedServer.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -Dthrift_EXPORTS -fPIC  -fPIC -I/home/a/thrift/lib/cpp -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/thrift.dir/src/thrift/transport/TPipe.cpp.o -c /home/a/thrift/lib/cpp/src/thrift/transport/TPipe.cpp",
+  "file": "/home/a/thrift/lib/cpp/src/thrift/transport/TPipe.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -Dthrift_EXPORTS -fPIC  -fPIC -I/home/a/thrift/lib/cpp -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/thrift.dir/src/thrift/transport/TPipeServer.cpp.o -c /home/a/thrift/lib/cpp/src/thrift/transport/TPipeServer.cpp",
+  "file": "/home/a/thrift/lib/cpp/src/thrift/transport/TPipeServer.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -Dthrift_EXPORTS -fPIC  -fPIC -I/home/a/thrift/lib/cpp -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/thrift.dir/src/thrift/transport/TFileTransport.cpp.o -c /home/a/thrift/lib/cpp/src/thrift/transport/TFileTransport.cpp",
+  "file": "/home/a/thrift/lib/cpp/src/thrift/transport/TFileTransport.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -Dthrift_EXPORTS -fPIC  -fPIC -I/home/a/thrift/lib/cpp -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/thrift.dir/src/thrift/VirtualProfiling.cpp.o -c /home/a/thrift/lib/cpp/src/thrift/VirtualProfiling.cpp",
+  "file": "/home/a/thrift/lib/cpp/src/thrift/VirtualProfiling.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -Dthrift_EXPORTS -fPIC  -fPIC -I/home/a/thrift/lib/cpp -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/thrift.dir/src/thrift/server/TServer.cpp.o -c /home/a/thrift/lib/cpp/src/thrift/server/TServer.cpp",
+  "file": "/home/a/thrift/lib/cpp/src/thrift/server/TServer.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -Dthrift_EXPORTS -fPIC  -fPIC -I/home/a/thrift/lib/cpp -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/thrift.dir/src/thrift/transport/TSSLSocket.cpp.o -c /home/a/thrift/lib/cpp/src/thrift/transport/TSSLSocket.cpp",
+  "file": "/home/a/thrift/lib/cpp/src/thrift/transport/TSSLSocket.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -Dthrift_EXPORTS -fPIC  -fPIC -I/home/a/thrift/lib/cpp -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/thrift.dir/src/thrift/transport/TSSLServerSocket.cpp.o -c /home/a/thrift/lib/cpp/src/thrift/transport/TSSLServerSocket.cpp",
+  "file": "/home/a/thrift/lib/cpp/src/thrift/transport/TSSLServerSocket.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -Dthrift_EXPORTS -fPIC  -fPIC -I/home/a/thrift/lib/cpp -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/thrift.dir/src/thrift/concurrency/PosixThreadFactory.cpp.o -c /home/a/thrift/lib/cpp/src/thrift/concurrency/PosixThreadFactory.cpp",
+  "file": "/home/a/thrift/lib/cpp/src/thrift/concurrency/PosixThreadFactory.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -Dthrift_EXPORTS -fPIC  -fPIC -I/home/a/thrift/lib/cpp -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/thrift.dir/src/thrift/concurrency/Mutex.cpp.o -c /home/a/thrift/lib/cpp/src/thrift/concurrency/Mutex.cpp",
+  "file": "/home/a/thrift/lib/cpp/src/thrift/concurrency/Mutex.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -Dthrift_EXPORTS -fPIC  -fPIC -I/home/a/thrift/lib/cpp -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/thrift.dir/src/thrift/concurrency/Monitor.cpp.o -c /home/a/thrift/lib/cpp/src/thrift/concurrency/Monitor.cpp",
+  "file": "/home/a/thrift/lib/cpp/src/thrift/concurrency/Monitor.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -fPIC  -I/home/a/thrift/lib/cpp -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/thrift_static.dir/src/thrift/TApplicationException.cpp.o -c /home/a/thrift/lib/cpp/src/thrift/TApplicationException.cpp",
+  "file": "/home/a/thrift/lib/cpp/src/thrift/TApplicationException.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -fPIC  -I/home/a/thrift/lib/cpp -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/thrift_static.dir/src/thrift/TOutput.cpp.o -c /home/a/thrift/lib/cpp/src/thrift/TOutput.cpp",
+  "file": "/home/a/thrift/lib/cpp/src/thrift/TOutput.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -fPIC  -I/home/a/thrift/lib/cpp -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/thrift_static.dir/src/thrift/async/TAsyncChannel.cpp.o -c /home/a/thrift/lib/cpp/src/thrift/async/TAsyncChannel.cpp",
+  "file": "/home/a/thrift/lib/cpp/src/thrift/async/TAsyncChannel.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -fPIC  -I/home/a/thrift/lib/cpp -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/thrift_static.dir/src/thrift/async/TConcurrentClientSyncInfo.cpp.o -c /home/a/thrift/lib/cpp/src/thrift/async/TConcurrentClientSyncInfo.cpp",
+  "file": "/home/a/thrift/lib/cpp/src/thrift/async/TConcurrentClientSyncInfo.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -fPIC  -I/home/a/thrift/lib/cpp -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/thrift_static.dir/src/thrift/concurrency/ThreadManager.cpp.o -c /home/a/thrift/lib/cpp/src/thrift/concurrency/ThreadManager.cpp",
+  "file": "/home/a/thrift/lib/cpp/src/thrift/concurrency/ThreadManager.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -fPIC  -I/home/a/thrift/lib/cpp -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/thrift_static.dir/src/thrift/concurrency/TimerManager.cpp.o -c /home/a/thrift/lib/cpp/src/thrift/concurrency/TimerManager.cpp",
+  "file": "/home/a/thrift/lib/cpp/src/thrift/concurrency/TimerManager.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -fPIC  -I/home/a/thrift/lib/cpp -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/thrift_static.dir/src/thrift/concurrency/Util.cpp.o -c /home/a/thrift/lib/cpp/src/thrift/concurrency/Util.cpp",
+  "file": "/home/a/thrift/lib/cpp/src/thrift/concurrency/Util.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -fPIC  -I/home/a/thrift/lib/cpp -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/thrift_static.dir/src/thrift/processor/PeekProcessor.cpp.o -c /home/a/thrift/lib/cpp/src/thrift/processor/PeekProcessor.cpp",
+  "file": "/home/a/thrift/lib/cpp/src/thrift/processor/PeekProcessor.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -fPIC  -I/home/a/thrift/lib/cpp -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/thrift_static.dir/src/thrift/protocol/TBase64Utils.cpp.o -c /home/a/thrift/lib/cpp/src/thrift/protocol/TBase64Utils.cpp",
+  "file": "/home/a/thrift/lib/cpp/src/thrift/protocol/TBase64Utils.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -fPIC  -I/home/a/thrift/lib/cpp -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/thrift_static.dir/src/thrift/protocol/TDebugProtocol.cpp.o -c /home/a/thrift/lib/cpp/src/thrift/protocol/TDebugProtocol.cpp",
+  "file": "/home/a/thrift/lib/cpp/src/thrift/protocol/TDebugProtocol.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -fPIC  -I/home/a/thrift/lib/cpp -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/thrift_static.dir/src/thrift/protocol/TJSONProtocol.cpp.o -c /home/a/thrift/lib/cpp/src/thrift/protocol/TJSONProtocol.cpp",
+  "file": "/home/a/thrift/lib/cpp/src/thrift/protocol/TJSONProtocol.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -fPIC  -I/home/a/thrift/lib/cpp -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/thrift_static.dir/src/thrift/protocol/TMultiplexedProtocol.cpp.o -c /home/a/thrift/lib/cpp/src/thrift/protocol/TMultiplexedProtocol.cpp",
+  "file": "/home/a/thrift/lib/cpp/src/thrift/protocol/TMultiplexedProtocol.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -fPIC  -I/home/a/thrift/lib/cpp -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/thrift_static.dir/src/thrift/protocol/TProtocol.cpp.o -c /home/a/thrift/lib/cpp/src/thrift/protocol/TProtocol.cpp",
+  "file": "/home/a/thrift/lib/cpp/src/thrift/protocol/TProtocol.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -fPIC  -I/home/a/thrift/lib/cpp -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/thrift_static.dir/src/thrift/transport/TTransportException.cpp.o -c /home/a/thrift/lib/cpp/src/thrift/transport/TTransportException.cpp",
+  "file": "/home/a/thrift/lib/cpp/src/thrift/transport/TTransportException.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -fPIC  -I/home/a/thrift/lib/cpp -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/thrift_static.dir/src/thrift/transport/TFDTransport.cpp.o -c /home/a/thrift/lib/cpp/src/thrift/transport/TFDTransport.cpp",
+  "file": "/home/a/thrift/lib/cpp/src/thrift/transport/TFDTransport.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -fPIC  -I/home/a/thrift/lib/cpp -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/thrift_static.dir/src/thrift/transport/TSimpleFileTransport.cpp.o -c /home/a/thrift/lib/cpp/src/thrift/transport/TSimpleFileTransport.cpp",
+  "file": "/home/a/thrift/lib/cpp/src/thrift/transport/TSimpleFileTransport.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -fPIC  -I/home/a/thrift/lib/cpp -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/thrift_static.dir/src/thrift/transport/THttpTransport.cpp.o -c /home/a/thrift/lib/cpp/src/thrift/transport/THttpTransport.cpp",
+  "file": "/home/a/thrift/lib/cpp/src/thrift/transport/THttpTransport.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -fPIC  -I/home/a/thrift/lib/cpp -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/thrift_static.dir/src/thrift/transport/THttpClient.cpp.o -c /home/a/thrift/lib/cpp/src/thrift/transport/THttpClient.cpp",
+  "file": "/home/a/thrift/lib/cpp/src/thrift/transport/THttpClient.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -fPIC  -I/home/a/thrift/lib/cpp -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/thrift_static.dir/src/thrift/transport/THttpServer.cpp.o -c /home/a/thrift/lib/cpp/src/thrift/transport/THttpServer.cpp",
+  "file": "/home/a/thrift/lib/cpp/src/thrift/transport/THttpServer.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -fPIC  -I/home/a/thrift/lib/cpp -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/thrift_static.dir/src/thrift/transport/TSocket.cpp.o -c /home/a/thrift/lib/cpp/src/thrift/transport/TSocket.cpp",
+  "file": "/home/a/thrift/lib/cpp/src/thrift/transport/TSocket.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -fPIC  -I/home/a/thrift/lib/cpp -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/thrift_static.dir/src/thrift/transport/TSocketPool.cpp.o -c /home/a/thrift/lib/cpp/src/thrift/transport/TSocketPool.cpp",
+  "file": "/home/a/thrift/lib/cpp/src/thrift/transport/TSocketPool.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -fPIC  -I/home/a/thrift/lib/cpp -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/thrift_static.dir/src/thrift/transport/TServerSocket.cpp.o -c /home/a/thrift/lib/cpp/src/thrift/transport/TServerSocket.cpp",
+  "file": "/home/a/thrift/lib/cpp/src/thrift/transport/TServerSocket.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -fPIC  -I/home/a/thrift/lib/cpp -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/thrift_static.dir/src/thrift/transport/TTransportUtils.cpp.o -c /home/a/thrift/lib/cpp/src/thrift/transport/TTransportUtils.cpp",
+  "file": "/home/a/thrift/lib/cpp/src/thrift/transport/TTransportUtils.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -fPIC  -I/home/a/thrift/lib/cpp -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/thrift_static.dir/src/thrift/transport/TBufferTransports.cpp.o -c /home/a/thrift/lib/cpp/src/thrift/transport/TBufferTransports.cpp",
+  "file": "/home/a/thrift/lib/cpp/src/thrift/transport/TBufferTransports.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -fPIC  -I/home/a/thrift/lib/cpp -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/thrift_static.dir/src/thrift/server/TConnectedClient.cpp.o -c /home/a/thrift/lib/cpp/src/thrift/server/TConnectedClient.cpp",
+  "file": "/home/a/thrift/lib/cpp/src/thrift/server/TConnectedClient.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -fPIC  -I/home/a/thrift/lib/cpp -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/thrift_static.dir/src/thrift/server/TServerFramework.cpp.o -c /home/a/thrift/lib/cpp/src/thrift/server/TServerFramework.cpp",
+  "file": "/home/a/thrift/lib/cpp/src/thrift/server/TServerFramework.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -fPIC  -I/home/a/thrift/lib/cpp -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/thrift_static.dir/src/thrift/server/TSimpleServer.cpp.o -c /home/a/thrift/lib/cpp/src/thrift/server/TSimpleServer.cpp",
+  "file": "/home/a/thrift/lib/cpp/src/thrift/server/TSimpleServer.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -fPIC  -I/home/a/thrift/lib/cpp -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/thrift_static.dir/src/thrift/server/TThreadPoolServer.cpp.o -c /home/a/thrift/lib/cpp/src/thrift/server/TThreadPoolServer.cpp",
+  "file": "/home/a/thrift/lib/cpp/src/thrift/server/TThreadPoolServer.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -fPIC  -I/home/a/thrift/lib/cpp -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/thrift_static.dir/src/thrift/server/TThreadedServer.cpp.o -c /home/a/thrift/lib/cpp/src/thrift/server/TThreadedServer.cpp",
+  "file": "/home/a/thrift/lib/cpp/src/thrift/server/TThreadedServer.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -fPIC  -I/home/a/thrift/lib/cpp -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/thrift_static.dir/src/thrift/transport/TPipe.cpp.o -c /home/a/thrift/lib/cpp/src/thrift/transport/TPipe.cpp",
+  "file": "/home/a/thrift/lib/cpp/src/thrift/transport/TPipe.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -fPIC  -I/home/a/thrift/lib/cpp -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/thrift_static.dir/src/thrift/transport/TPipeServer.cpp.o -c /home/a/thrift/lib/cpp/src/thrift/transport/TPipeServer.cpp",
+  "file": "/home/a/thrift/lib/cpp/src/thrift/transport/TPipeServer.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -fPIC  -I/home/a/thrift/lib/cpp -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/thrift_static.dir/src/thrift/transport/TFileTransport.cpp.o -c /home/a/thrift/lib/cpp/src/thrift/transport/TFileTransport.cpp",
+  "file": "/home/a/thrift/lib/cpp/src/thrift/transport/TFileTransport.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -fPIC  -I/home/a/thrift/lib/cpp -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/thrift_static.dir/src/thrift/VirtualProfiling.cpp.o -c /home/a/thrift/lib/cpp/src/thrift/VirtualProfiling.cpp",
+  "file": "/home/a/thrift/lib/cpp/src/thrift/VirtualProfiling.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -fPIC  -I/home/a/thrift/lib/cpp -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/thrift_static.dir/src/thrift/server/TServer.cpp.o -c /home/a/thrift/lib/cpp/src/thrift/server/TServer.cpp",
+  "file": "/home/a/thrift/lib/cpp/src/thrift/server/TServer.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -fPIC  -I/home/a/thrift/lib/cpp -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/thrift_static.dir/src/thrift/transport/TSSLSocket.cpp.o -c /home/a/thrift/lib/cpp/src/thrift/transport/TSSLSocket.cpp",
+  "file": "/home/a/thrift/lib/cpp/src/thrift/transport/TSSLSocket.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -fPIC  -I/home/a/thrift/lib/cpp -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/thrift_static.dir/src/thrift/transport/TSSLServerSocket.cpp.o -c /home/a/thrift/lib/cpp/src/thrift/transport/TSSLServerSocket.cpp",
+  "file": "/home/a/thrift/lib/cpp/src/thrift/transport/TSSLServerSocket.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -fPIC  -I/home/a/thrift/lib/cpp -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/thrift_static.dir/src/thrift/concurrency/PosixThreadFactory.cpp.o -c /home/a/thrift/lib/cpp/src/thrift/concurrency/PosixThreadFactory.cpp",
+  "file": "/home/a/thrift/lib/cpp/src/thrift/concurrency/PosixThreadFactory.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -fPIC  -I/home/a/thrift/lib/cpp -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/thrift_static.dir/src/thrift/concurrency/Mutex.cpp.o -c /home/a/thrift/lib/cpp/src/thrift/concurrency/Mutex.cpp",
+  "file": "/home/a/thrift/lib/cpp/src/thrift/concurrency/Mutex.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -fPIC  -I/home/a/thrift/lib/cpp -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/thrift_static.dir/src/thrift/concurrency/Monitor.cpp.o -c /home/a/thrift/lib/cpp/src/thrift/concurrency/Monitor.cpp",
+  "file": "/home/a/thrift/lib/cpp/src/thrift/concurrency/Monitor.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp",
+  "command": "/usr/bin/c++   -DQT_CORE_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -D__STDC_LIMIT_MACROS -Dthriftqt_EXPORTS -fPIC  -fPIC -I/home/a/thrift/lib/cpp -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src -isystem /usr/include/qt4/QtCore -isystem /usr/share/qt4/mkspecs/default -isystem /usr/include/qt4 -isystem /usr/include/qt4/QtNetwork    -o CMakeFiles/thriftqt.dir/src/thrift/qt/TQIODeviceTransport.cpp.o -c /home/a/thrift/lib/cpp/src/thrift/qt/TQIODeviceTransport.cpp",
+  "file": "/home/a/thrift/lib/cpp/src/thrift/qt/TQIODeviceTransport.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp",
+  "command": "/usr/bin/c++   -DQT_CORE_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -D__STDC_LIMIT_MACROS -Dthriftqt_EXPORTS -fPIC  -fPIC -I/home/a/thrift/lib/cpp -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src -isystem /usr/include/qt4/QtCore -isystem /usr/share/qt4/mkspecs/default -isystem /usr/include/qt4 -isystem /usr/include/qt4/QtNetwork    -o CMakeFiles/thriftqt.dir/src/thrift/qt/TQTcpServer.cpp.o -c /home/a/thrift/lib/cpp/src/thrift/qt/TQTcpServer.cpp",
+  "file": "/home/a/thrift/lib/cpp/src/thrift/qt/TQTcpServer.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp",
+  "command": "/usr/bin/c++   -DQT_CORE_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -D__STDC_LIMIT_MACROS -Dthriftqt_EXPORTS -fPIC  -fPIC -I/home/a/thrift/lib/cpp -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src -isystem /usr/include/qt4/QtCore -isystem /usr/share/qt4/mkspecs/default -isystem /usr/include/qt4 -isystem /usr/include/qt4/QtNetwork    -o CMakeFiles/thriftqt.dir/thriftqt_automoc.cpp.o -c /home/a/thrift/lib/cpp/thriftqt_automoc.cpp",
+  "file": "/home/a/thrift/lib/cpp/thriftqt_automoc.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp",
+  "command": "/usr/bin/c++   -DQT_CORE_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -D__STDC_LIMIT_MACROS -fPIC  -I/home/a/thrift/lib/cpp -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src -isystem /usr/include/qt4/QtCore -isystem /usr/share/qt4/mkspecs/default -isystem /usr/include/qt4 -isystem /usr/include/qt4/QtNetwork    -o CMakeFiles/thriftqt_static.dir/src/thrift/qt/TQIODeviceTransport.cpp.o -c /home/a/thrift/lib/cpp/src/thrift/qt/TQIODeviceTransport.cpp",
+  "file": "/home/a/thrift/lib/cpp/src/thrift/qt/TQIODeviceTransport.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp",
+  "command": "/usr/bin/c++   -DQT_CORE_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -D__STDC_LIMIT_MACROS -fPIC  -I/home/a/thrift/lib/cpp -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src -isystem /usr/include/qt4/QtCore -isystem /usr/share/qt4/mkspecs/default -isystem /usr/include/qt4 -isystem /usr/include/qt4/QtNetwork    -o CMakeFiles/thriftqt_static.dir/src/thrift/qt/TQTcpServer.cpp.o -c /home/a/thrift/lib/cpp/src/thrift/qt/TQTcpServer.cpp",
+  "file": "/home/a/thrift/lib/cpp/src/thrift/qt/TQTcpServer.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp",
+  "command": "/usr/bin/c++   -DQT_CORE_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -D__STDC_LIMIT_MACROS -fPIC  -I/home/a/thrift/lib/cpp -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src -isystem /usr/include/qt4/QtCore -isystem /usr/share/qt4/mkspecs/default -isystem /usr/include/qt4 -isystem /usr/include/qt4/QtNetwork    -o CMakeFiles/thriftqt_static.dir/thriftqt_static_automoc.cpp.o -c /home/a/thrift/lib/cpp/thriftqt_static_automoc.cpp",
+  "file": "/home/a/thrift/lib/cpp/thriftqt_static_automoc.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -Dthriftz_EXPORTS -fPIC  -fPIC -I/home/a/thrift/lib/cpp -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/thriftz.dir/src/thrift/transport/TZlibTransport.cpp.o -c /home/a/thrift/lib/cpp/src/thrift/transport/TZlibTransport.cpp",
+  "file": "/home/a/thrift/lib/cpp/src/thrift/transport/TZlibTransport.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -Dthriftz_EXPORTS -fPIC  -fPIC -I/home/a/thrift/lib/cpp -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/thriftz.dir/src/thrift/protocol/THeaderProtocol.cpp.o -c /home/a/thrift/lib/cpp/src/thrift/protocol/THeaderProtocol.cpp",
+  "file": "/home/a/thrift/lib/cpp/src/thrift/protocol/THeaderProtocol.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -Dthriftz_EXPORTS -fPIC  -fPIC -I/home/a/thrift/lib/cpp -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/thriftz.dir/src/thrift/transport/THeaderTransport.cpp.o -c /home/a/thrift/lib/cpp/src/thrift/transport/THeaderTransport.cpp",
+  "file": "/home/a/thrift/lib/cpp/src/thrift/transport/THeaderTransport.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -fPIC  -I/home/a/thrift/lib/cpp -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/thriftz_static.dir/src/thrift/transport/TZlibTransport.cpp.o -c /home/a/thrift/lib/cpp/src/thrift/transport/TZlibTransport.cpp",
+  "file": "/home/a/thrift/lib/cpp/src/thrift/transport/TZlibTransport.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -fPIC  -I/home/a/thrift/lib/cpp -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/thriftz_static.dir/src/thrift/protocol/THeaderProtocol.cpp.o -c /home/a/thrift/lib/cpp/src/thrift/protocol/THeaderProtocol.cpp",
+  "file": "/home/a/thrift/lib/cpp/src/thrift/protocol/THeaderProtocol.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -fPIC  -I/home/a/thrift/lib/cpp -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/thriftz_static.dir/src/thrift/transport/THeaderTransport.cpp.o -c /home/a/thrift/lib/cpp/src/thrift/transport/THeaderTransport.cpp",
+  "file": "/home/a/thrift/lib/cpp/src/thrift/transport/THeaderTransport.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp/src/thrift/qt",
+  "command": "/usr/bin/c++   -DQT_CORE_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -Dthriftqt5_EXPORTS -fPIC  -fPIC -I/home/a/thrift/lib/cpp/src/thrift/qt -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++-64 -isystem /usr/include/x86_64-linux-gnu/qt5/QtNetwork    -fPIC -o CMakeFiles/thriftqt5.dir/TQIODeviceTransport.cpp.o -c /home/a/thrift/lib/cpp/src/thrift/qt/TQIODeviceTransport.cpp",
+  "file": "/home/a/thrift/lib/cpp/src/thrift/qt/TQIODeviceTransport.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp/src/thrift/qt",
+  "command": "/usr/bin/c++   -DQT_CORE_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -Dthriftqt5_EXPORTS -fPIC  -fPIC -I/home/a/thrift/lib/cpp/src/thrift/qt -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++-64 -isystem /usr/include/x86_64-linux-gnu/qt5/QtNetwork    -fPIC -o CMakeFiles/thriftqt5.dir/TQTcpServer.cpp.o -c /home/a/thrift/lib/cpp/src/thrift/qt/TQTcpServer.cpp",
+  "file": "/home/a/thrift/lib/cpp/src/thrift/qt/TQTcpServer.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp/src/thrift/qt",
+  "command": "/usr/bin/c++   -DQT_CORE_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -Dthriftqt5_EXPORTS -fPIC  -fPIC -I/home/a/thrift/lib/cpp/src/thrift/qt -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++-64 -isystem /usr/include/x86_64-linux-gnu/qt5/QtNetwork    -fPIC -o CMakeFiles/thriftqt5.dir/thriftqt5_automoc.cpp.o -c /home/a/thrift/lib/cpp/src/thrift/qt/thriftqt5_automoc.cpp",
+  "file": "/home/a/thrift/lib/cpp/src/thrift/qt/thriftqt5_automoc.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp/src/thrift/qt",
+  "command": "/usr/bin/c++   -DQT_CORE_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -fPIC  -I/home/a/thrift/lib/cpp/src/thrift/qt -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++-64 -isystem /usr/include/x86_64-linux-gnu/qt5/QtNetwork    -fPIC -o CMakeFiles/thriftqt5_static.dir/TQIODeviceTransport.cpp.o -c /home/a/thrift/lib/cpp/src/thrift/qt/TQIODeviceTransport.cpp",
+  "file": "/home/a/thrift/lib/cpp/src/thrift/qt/TQIODeviceTransport.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp/src/thrift/qt",
+  "command": "/usr/bin/c++   -DQT_CORE_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -fPIC  -I/home/a/thrift/lib/cpp/src/thrift/qt -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++-64 -isystem /usr/include/x86_64-linux-gnu/qt5/QtNetwork    -fPIC -o CMakeFiles/thriftqt5_static.dir/TQTcpServer.cpp.o -c /home/a/thrift/lib/cpp/src/thrift/qt/TQTcpServer.cpp",
+  "file": "/home/a/thrift/lib/cpp/src/thrift/qt/TQTcpServer.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp/src/thrift/qt",
+  "command": "/usr/bin/c++   -DQT_CORE_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -fPIC  -I/home/a/thrift/lib/cpp/src/thrift/qt -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++-64 -isystem /usr/include/x86_64-linux-gnu/qt5/QtNetwork    -fPIC -o CMakeFiles/thriftqt5_static.dir/thriftqt5_static_automoc.cpp.o -c /home/a/thrift/lib/cpp/src/thrift/qt/thriftqt5_static_automoc.cpp",
+  "file": "/home/a/thrift/lib/cpp/src/thrift/qt/thriftqt5_static_automoc.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp/test",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -fPIC  -I/home/a/thrift/lib/cpp/test -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/AllProtocolsTest.dir/AllProtocolTests.cpp.o -c /home/a/thrift/lib/cpp/test/AllProtocolTests.cpp",
+  "file": "/home/a/thrift/lib/cpp/test/AllProtocolTests.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp/test",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -fPIC  -I/home/a/thrift/lib/cpp/test -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/AllProtocolsTest.dir/AllProtocolsTest_automoc.cpp.o -c /home/a/thrift/lib/cpp/test/AllProtocolsTest_automoc.cpp",
+  "file": "/home/a/thrift/lib/cpp/test/AllProtocolsTest_automoc.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp/test",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -fPIC  -I/home/a/thrift/lib/cpp/test -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/Benchmark.dir/Benchmark.cpp.o -c /home/a/thrift/lib/cpp/test/Benchmark.cpp",
+  "file": "/home/a/thrift/lib/cpp/test/Benchmark.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp/test",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -fPIC  -I/home/a/thrift/lib/cpp/test -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/Benchmark.dir/Benchmark_automoc.cpp.o -c /home/a/thrift/lib/cpp/test/Benchmark_automoc.cpp",
+  "file": "/home/a/thrift/lib/cpp/test/Benchmark_automoc.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp/test",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -fPIC  -I/home/a/thrift/lib/cpp/test -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/DebugProtoTest.dir/DebugProtoTest.cpp.o -c /home/a/thrift/lib/cpp/test/DebugProtoTest.cpp",
+  "file": "/home/a/thrift/lib/cpp/test/DebugProtoTest.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp/test",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -fPIC  -I/home/a/thrift/lib/cpp/test -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/DebugProtoTest.dir/DebugProtoTest_automoc.cpp.o -c /home/a/thrift/lib/cpp/test/DebugProtoTest_automoc.cpp",
+  "file": "/home/a/thrift/lib/cpp/test/DebugProtoTest_automoc.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp/test",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -fPIC  -I/home/a/thrift/lib/cpp/test -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/EnumTest.dir/EnumTest.cpp.o -c /home/a/thrift/lib/cpp/test/EnumTest.cpp",
+  "file": "/home/a/thrift/lib/cpp/test/EnumTest.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp/test",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -fPIC  -I/home/a/thrift/lib/cpp/test -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/EnumTest.dir/EnumTest_automoc.cpp.o -c /home/a/thrift/lib/cpp/test/EnumTest_automoc.cpp",
+  "file": "/home/a/thrift/lib/cpp/test/EnumTest_automoc.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp/test",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -fPIC  -I/home/a/thrift/lib/cpp/test -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/JSONProtoTest.dir/JSONProtoTest.cpp.o -c /home/a/thrift/lib/cpp/test/JSONProtoTest.cpp",
+  "file": "/home/a/thrift/lib/cpp/test/JSONProtoTest.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp/test",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -fPIC  -I/home/a/thrift/lib/cpp/test -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/JSONProtoTest.dir/JSONProtoTest_automoc.cpp.o -c /home/a/thrift/lib/cpp/test/JSONProtoTest_automoc.cpp",
+  "file": "/home/a/thrift/lib/cpp/test/JSONProtoTest_automoc.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp/test",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -fPIC  -I/home/a/thrift/lib/cpp/test -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/OpenSSLManualInitTest.dir/OpenSSLManualInitTest.cpp.o -c /home/a/thrift/lib/cpp/test/OpenSSLManualInitTest.cpp",
+  "file": "/home/a/thrift/lib/cpp/test/OpenSSLManualInitTest.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp/test",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -fPIC  -I/home/a/thrift/lib/cpp/test -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/OpenSSLManualInitTest.dir/OpenSSLManualInitTest_automoc.cpp.o -c /home/a/thrift/lib/cpp/test/OpenSSLManualInitTest_automoc.cpp",
+  "file": "/home/a/thrift/lib/cpp/test/OpenSSLManualInitTest_automoc.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp/test",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -fPIC  -I/home/a/thrift/lib/cpp/test -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/OptionalRequiredTest.dir/OptionalRequiredTest.cpp.o -c /home/a/thrift/lib/cpp/test/OptionalRequiredTest.cpp",
+  "file": "/home/a/thrift/lib/cpp/test/OptionalRequiredTest.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp/test",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -fPIC  -I/home/a/thrift/lib/cpp/test -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/OptionalRequiredTest.dir/OptionalRequiredTest_automoc.cpp.o -c /home/a/thrift/lib/cpp/test/OptionalRequiredTest_automoc.cpp",
+  "file": "/home/a/thrift/lib/cpp/test/OptionalRequiredTest_automoc.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp/test",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -fPIC  -I/home/a/thrift/lib/cpp/test -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/RecursiveTest.dir/RecursiveTest.cpp.o -c /home/a/thrift/lib/cpp/test/RecursiveTest.cpp",
+  "file": "/home/a/thrift/lib/cpp/test/RecursiveTest.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp/test",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -fPIC  -I/home/a/thrift/lib/cpp/test -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/RecursiveTest.dir/RecursiveTest_automoc.cpp.o -c /home/a/thrift/lib/cpp/test/RecursiveTest_automoc.cpp",
+  "file": "/home/a/thrift/lib/cpp/test/RecursiveTest_automoc.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp/test",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -fPIC  -I/home/a/thrift/lib/cpp/test -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/SecurityTest.dir/SecurityTest.cpp.o -c /home/a/thrift/lib/cpp/test/SecurityTest.cpp",
+  "file": "/home/a/thrift/lib/cpp/test/SecurityTest.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp/test",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -fPIC  -I/home/a/thrift/lib/cpp/test -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/SecurityTest.dir/SecurityTest_automoc.cpp.o -c /home/a/thrift/lib/cpp/test/SecurityTest_automoc.cpp",
+  "file": "/home/a/thrift/lib/cpp/test/SecurityTest_automoc.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp/test",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -fPIC  -I/home/a/thrift/lib/cpp/test -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/SpecializationTest.dir/SpecializationTest.cpp.o -c /home/a/thrift/lib/cpp/test/SpecializationTest.cpp",
+  "file": "/home/a/thrift/lib/cpp/test/SpecializationTest.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp/test",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -fPIC  -I/home/a/thrift/lib/cpp/test -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/SpecializationTest.dir/SpecializationTest_automoc.cpp.o -c /home/a/thrift/lib/cpp/test/SpecializationTest_automoc.cpp",
+  "file": "/home/a/thrift/lib/cpp/test/SpecializationTest_automoc.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp/test",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -fPIC  -I/home/a/thrift/lib/cpp/test -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/TFDTransportTest.dir/TFDTransportTest.cpp.o -c /home/a/thrift/lib/cpp/test/TFDTransportTest.cpp",
+  "file": "/home/a/thrift/lib/cpp/test/TFDTransportTest.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp/test",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -fPIC  -I/home/a/thrift/lib/cpp/test -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/TFDTransportTest.dir/TFDTransportTest_automoc.cpp.o -c /home/a/thrift/lib/cpp/test/TFDTransportTest_automoc.cpp",
+  "file": "/home/a/thrift/lib/cpp/test/TFDTransportTest_automoc.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp/test",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -fPIC  -I/home/a/thrift/lib/cpp/test -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/TFileTransportTest.dir/TFileTransportTest.cpp.o -c /home/a/thrift/lib/cpp/test/TFileTransportTest.cpp",
+  "file": "/home/a/thrift/lib/cpp/test/TFileTransportTest.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp/test",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -fPIC  -I/home/a/thrift/lib/cpp/test -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/TFileTransportTest.dir/TFileTransportTest_automoc.cpp.o -c /home/a/thrift/lib/cpp/test/TFileTransportTest_automoc.cpp",
+  "file": "/home/a/thrift/lib/cpp/test/TFileTransportTest_automoc.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp/test",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -fPIC  -I/home/a/thrift/lib/cpp/test -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/TInterruptTest.dir/TSocketInterruptTest.cpp.o -c /home/a/thrift/lib/cpp/test/TSocketInterruptTest.cpp",
+  "file": "/home/a/thrift/lib/cpp/test/TSocketInterruptTest.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp/test",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -fPIC  -I/home/a/thrift/lib/cpp/test -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/TInterruptTest.dir/TSSLSocketInterruptTest.cpp.o -c /home/a/thrift/lib/cpp/test/TSSLSocketInterruptTest.cpp",
+  "file": "/home/a/thrift/lib/cpp/test/TSSLSocketInterruptTest.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp/test",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -fPIC  -I/home/a/thrift/lib/cpp/test -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/TInterruptTest.dir/TInterruptTest_automoc.cpp.o -c /home/a/thrift/lib/cpp/test/TInterruptTest_automoc.cpp",
+  "file": "/home/a/thrift/lib/cpp/test/TInterruptTest_automoc.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp/test",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -fPIC  -I/home/a/thrift/lib/cpp/test -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/TPipedTransportTest.dir/TPipedTransportTest.cpp.o -c /home/a/thrift/lib/cpp/test/TPipedTransportTest.cpp",
+  "file": "/home/a/thrift/lib/cpp/test/TPipedTransportTest.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp/test",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -fPIC  -I/home/a/thrift/lib/cpp/test -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/TPipedTransportTest.dir/TPipedTransportTest_automoc.cpp.o -c /home/a/thrift/lib/cpp/test/TPipedTransportTest_automoc.cpp",
+  "file": "/home/a/thrift/lib/cpp/test/TPipedTransportTest_automoc.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp/test",
+  "command": "/usr/bin/c++   -DQT_CORE_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_TEST_LIB -D__STDC_LIMIT_MACROS -fPIC  -I/home/a/thrift/lib/cpp/test -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src -isystem /usr/include/qt4/QtCore -isystem /usr/share/qt4/mkspecs/default -isystem /usr/include/qt4 -isystem /usr/include/qt4/QtNetwork -isystem /usr/include/qt4/QtTest    -o CMakeFiles/TQTcpServerTest.dir/qt/TQTcpServerTest.cpp.o -c /home/a/thrift/lib/cpp/test/qt/TQTcpServerTest.cpp",
+  "file": "/home/a/thrift/lib/cpp/test/qt/TQTcpServerTest.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp/test",
+  "command": "/usr/bin/c++   -DQT_CORE_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_TEST_LIB -D__STDC_LIMIT_MACROS -fPIC  -I/home/a/thrift/lib/cpp/test -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src -isystem /usr/include/qt4/QtCore -isystem /usr/share/qt4/mkspecs/default -isystem /usr/include/qt4 -isystem /usr/include/qt4/QtNetwork -isystem /usr/include/qt4/QtTest    -o CMakeFiles/TQTcpServerTest.dir/TQTcpServerTest_automoc.cpp.o -c /home/a/thrift/lib/cpp/test/TQTcpServerTest_automoc.cpp",
+  "file": "/home/a/thrift/lib/cpp/test/TQTcpServerTest_automoc.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp/test",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -fPIC  -I/home/a/thrift/lib/cpp/test -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/TServerIntegrationTest.dir/TServerIntegrationTest.cpp.o -c /home/a/thrift/lib/cpp/test/TServerIntegrationTest.cpp",
+  "file": "/home/a/thrift/lib/cpp/test/TServerIntegrationTest.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp/test",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -fPIC  -I/home/a/thrift/lib/cpp/test -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/TServerIntegrationTest.dir/TServerIntegrationTest_automoc.cpp.o -c /home/a/thrift/lib/cpp/test/TServerIntegrationTest_automoc.cpp",
+  "file": "/home/a/thrift/lib/cpp/test/TServerIntegrationTest_automoc.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp/test",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -fPIC  -I/home/a/thrift/lib/cpp/test -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/TransportTest.dir/TransportTest.cpp.o -c /home/a/thrift/lib/cpp/test/TransportTest.cpp",
+  "file": "/home/a/thrift/lib/cpp/test/TransportTest.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp/test",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -fPIC  -I/home/a/thrift/lib/cpp/test -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/TransportTest.dir/TransportTest_automoc.cpp.o -c /home/a/thrift/lib/cpp/test/TransportTest_automoc.cpp",
+  "file": "/home/a/thrift/lib/cpp/test/TransportTest_automoc.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp/test",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -fPIC  -I/home/a/thrift/lib/cpp/test -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/UnitTests.dir/UnitTestMain.cpp.o -c /home/a/thrift/lib/cpp/test/UnitTestMain.cpp",
+  "file": "/home/a/thrift/lib/cpp/test/UnitTestMain.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp/test",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -fPIC  -I/home/a/thrift/lib/cpp/test -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/UnitTests.dir/TMemoryBufferTest.cpp.o -c /home/a/thrift/lib/cpp/test/TMemoryBufferTest.cpp",
+  "file": "/home/a/thrift/lib/cpp/test/TMemoryBufferTest.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp/test",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -fPIC  -I/home/a/thrift/lib/cpp/test -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/UnitTests.dir/TBufferBaseTest.cpp.o -c /home/a/thrift/lib/cpp/test/TBufferBaseTest.cpp",
+  "file": "/home/a/thrift/lib/cpp/test/TBufferBaseTest.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp/test",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -fPIC  -I/home/a/thrift/lib/cpp/test -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/UnitTests.dir/Base64Test.cpp.o -c /home/a/thrift/lib/cpp/test/Base64Test.cpp",
+  "file": "/home/a/thrift/lib/cpp/test/Base64Test.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp/test",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -fPIC  -I/home/a/thrift/lib/cpp/test -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/UnitTests.dir/ToStringTest.cpp.o -c /home/a/thrift/lib/cpp/test/ToStringTest.cpp",
+  "file": "/home/a/thrift/lib/cpp/test/ToStringTest.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp/test",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -fPIC  -I/home/a/thrift/lib/cpp/test -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/UnitTests.dir/TypedefTest.cpp.o -c /home/a/thrift/lib/cpp/test/TypedefTest.cpp",
+  "file": "/home/a/thrift/lib/cpp/test/TypedefTest.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp/test",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -fPIC  -I/home/a/thrift/lib/cpp/test -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/UnitTests.dir/TServerSocketTest.cpp.o -c /home/a/thrift/lib/cpp/test/TServerSocketTest.cpp",
+  "file": "/home/a/thrift/lib/cpp/test/TServerSocketTest.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp/test",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -fPIC  -I/home/a/thrift/lib/cpp/test -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/UnitTests.dir/TServerTransportTest.cpp.o -c /home/a/thrift/lib/cpp/test/TServerTransportTest.cpp",
+  "file": "/home/a/thrift/lib/cpp/test/TServerTransportTest.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp/test",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -fPIC  -I/home/a/thrift/lib/cpp/test -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/UnitTests.dir/RWMutexStarveTest.cpp.o -c /home/a/thrift/lib/cpp/test/RWMutexStarveTest.cpp",
+  "file": "/home/a/thrift/lib/cpp/test/RWMutexStarveTest.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp/test",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -fPIC  -I/home/a/thrift/lib/cpp/test -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/UnitTests.dir/UnitTests_automoc.cpp.o -c /home/a/thrift/lib/cpp/test/UnitTests_automoc.cpp",
+  "file": "/home/a/thrift/lib/cpp/test/UnitTests_automoc.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp/test",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -fPIC  -I/home/a/thrift/lib/cpp/test -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/ZlibTest.dir/ZlibTest.cpp.o -c /home/a/thrift/lib/cpp/test/ZlibTest.cpp",
+  "file": "/home/a/thrift/lib/cpp/test/ZlibTest.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp/test",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -fPIC  -I/home/a/thrift/lib/cpp/test -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/ZlibTest.dir/ZlibTest_automoc.cpp.o -c /home/a/thrift/lib/cpp/test/ZlibTest_automoc.cpp",
+  "file": "/home/a/thrift/lib/cpp/test/ZlibTest_automoc.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp/test",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -fPIC  -I/home/a/thrift/lib/cpp/test -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/concurrency_test.dir/concurrency/Tests.cpp.o -c /home/a/thrift/lib/cpp/test/concurrency/Tests.cpp",
+  "file": "/home/a/thrift/lib/cpp/test/concurrency/Tests.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp/test",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -fPIC  -I/home/a/thrift/lib/cpp/test -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/concurrency_test.dir/concurrency_test_automoc.cpp.o -c /home/a/thrift/lib/cpp/test/concurrency_test_automoc.cpp",
+  "file": "/home/a/thrift/lib/cpp/test/concurrency_test_automoc.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp/test",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -fPIC  -I/home/a/thrift/lib/cpp/test -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/link_test.dir/link/LinkTest.cpp.o -c /home/a/thrift/lib/cpp/test/link/LinkTest.cpp",
+  "file": "/home/a/thrift/lib/cpp/test/link/LinkTest.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp/test",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -fPIC  -I/home/a/thrift/lib/cpp/test -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/link_test.dir/link/TemplatedService1.cpp.o -c /home/a/thrift/lib/cpp/test/link/TemplatedService1.cpp",
+  "file": "/home/a/thrift/lib/cpp/test/link/TemplatedService1.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp/test",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -fPIC  -I/home/a/thrift/lib/cpp/test -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/link_test.dir/link/TemplatedService2.cpp.o -c /home/a/thrift/lib/cpp/test/link/TemplatedService2.cpp",
+  "file": "/home/a/thrift/lib/cpp/test/link/TemplatedService2.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp/test",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -fPIC  -I/home/a/thrift/lib/cpp/test -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/link_test.dir/link_test_automoc.cpp.o -c /home/a/thrift/lib/cpp/test/link_test_automoc.cpp",
+  "file": "/home/a/thrift/lib/cpp/test/link_test_automoc.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp/test",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -fPIC  -I/home/a/thrift/lib/cpp/test -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/testgencpp.dir/gen-cpp/DebugProtoTest_types.cpp.o -c /home/a/thrift/lib/cpp/test/gen-cpp/DebugProtoTest_types.cpp",
+  "file": "/home/a/thrift/lib/cpp/test/gen-cpp/DebugProtoTest_types.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp/test",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -fPIC  -I/home/a/thrift/lib/cpp/test -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/testgencpp.dir/gen-cpp/EnumTest_types.cpp.o -c /home/a/thrift/lib/cpp/test/gen-cpp/EnumTest_types.cpp",
+  "file": "/home/a/thrift/lib/cpp/test/gen-cpp/EnumTest_types.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp/test",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -fPIC  -I/home/a/thrift/lib/cpp/test -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/testgencpp.dir/gen-cpp/OptionalRequiredTest_types.cpp.o -c /home/a/thrift/lib/cpp/test/gen-cpp/OptionalRequiredTest_types.cpp",
+  "file": "/home/a/thrift/lib/cpp/test/gen-cpp/OptionalRequiredTest_types.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp/test",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -fPIC  -I/home/a/thrift/lib/cpp/test -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/testgencpp.dir/gen-cpp/Recursive_types.cpp.o -c /home/a/thrift/lib/cpp/test/gen-cpp/Recursive_types.cpp",
+  "file": "/home/a/thrift/lib/cpp/test/gen-cpp/Recursive_types.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp/test",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -fPIC  -I/home/a/thrift/lib/cpp/test -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/testgencpp.dir/gen-cpp/ThriftTest_types.cpp.o -c /home/a/thrift/lib/cpp/test/gen-cpp/ThriftTest_types.cpp",
+  "file": "/home/a/thrift/lib/cpp/test/gen-cpp/ThriftTest_types.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp/test",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -fPIC  -I/home/a/thrift/lib/cpp/test -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/testgencpp.dir/gen-cpp/TypedefTest_types.cpp.o -c /home/a/thrift/lib/cpp/test/gen-cpp/TypedefTest_types.cpp",
+  "file": "/home/a/thrift/lib/cpp/test/gen-cpp/TypedefTest_types.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp/test",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -fPIC  -I/home/a/thrift/lib/cpp/test -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/testgencpp.dir/ThriftTest_extras.cpp.o -c /home/a/thrift/lib/cpp/test/ThriftTest_extras.cpp",
+  "file": "/home/a/thrift/lib/cpp/test/ThriftTest_extras.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp/test",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -fPIC  -I/home/a/thrift/lib/cpp/test -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/testgencpp.dir/DebugProtoTest_extras.cpp.o -c /home/a/thrift/lib/cpp/test/DebugProtoTest_extras.cpp",
+  "file": "/home/a/thrift/lib/cpp/test/DebugProtoTest_extras.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp/test",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -fPIC  -I/home/a/thrift/lib/cpp/test -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/testgencpp.dir/testgencpp_automoc.cpp.o -c /home/a/thrift/lib/cpp/test/testgencpp_automoc.cpp",
+  "file": "/home/a/thrift/lib/cpp/test/testgencpp_automoc.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp/test",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -fPIC  -I/home/a/thrift/lib/cpp/test -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/testgencpp_cob.dir/gen-cpp/ChildService.cpp.o -c /home/a/thrift/lib/cpp/test/gen-cpp/ChildService.cpp",
+  "file": "/home/a/thrift/lib/cpp/test/gen-cpp/ChildService.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp/test",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -fPIC  -I/home/a/thrift/lib/cpp/test -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/testgencpp_cob.dir/gen-cpp/EmptyService.cpp.o -c /home/a/thrift/lib/cpp/test/gen-cpp/EmptyService.cpp",
+  "file": "/home/a/thrift/lib/cpp/test/gen-cpp/EmptyService.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp/test",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -fPIC  -I/home/a/thrift/lib/cpp/test -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/testgencpp_cob.dir/gen-cpp/ParentService.cpp.o -c /home/a/thrift/lib/cpp/test/gen-cpp/ParentService.cpp",
+  "file": "/home/a/thrift/lib/cpp/test/gen-cpp/ParentService.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp/test",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -fPIC  -I/home/a/thrift/lib/cpp/test -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/testgencpp_cob.dir/gen-cpp/proc_types.cpp.o -c /home/a/thrift/lib/cpp/test/gen-cpp/proc_types.cpp",
+  "file": "/home/a/thrift/lib/cpp/test/gen-cpp/proc_types.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp/test",
+  "command": "/usr/bin/c++   -D__STDC_LIMIT_MACROS -fPIC  -I/home/a/thrift/lib/cpp/test -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/testgencpp_cob.dir/testgencpp_cob_automoc.cpp.o -c /home/a/thrift/lib/cpp/test/testgencpp_cob_automoc.cpp",
+  "file": "/home/a/thrift/lib/cpp/test/testgencpp_cob_automoc.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp/test/qt",
+  "command": "/usr/bin/c++   -DQT_CORE_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_TESTLIB_LIB -D__STDC_LIMIT_MACROS -fPIC  -I/home/a/thrift/lib/cpp/test/qt -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src -I/home/a/thrift/lib/cpp/test -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++-64 -isystem /usr/include/x86_64-linux-gnu/qt5/QtNetwork -isystem /usr/include/x86_64-linux-gnu/qt5/QtTest    -fPIC -o CMakeFiles/TQTcpServerTest_Qt5.dir/TQTcpServerTest.cpp.o -c /home/a/thrift/lib/cpp/test/qt/TQTcpServerTest.cpp",
+  "file": "/home/a/thrift/lib/cpp/test/qt/TQTcpServerTest.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/cpp/test/qt",
+  "command": "/usr/bin/c++   -DQT_CORE_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_TESTLIB_LIB -D__STDC_LIMIT_MACROS -fPIC  -I/home/a/thrift/lib/cpp/test/qt -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/cpp/src -I/home/a/thrift/lib/cpp/test -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++-64 -isystem /usr/include/x86_64-linux-gnu/qt5/QtNetwork -isystem /usr/include/x86_64-linux-gnu/qt5/QtTest    -fPIC -o CMakeFiles/TQTcpServerTest_Qt5.dir/TQTcpServerTest_Qt5_automoc.cpp.o -c /home/a/thrift/lib/cpp/test/qt/TQTcpServerTest_Qt5_automoc.cpp",
+  "file": "/home/a/thrift/lib/cpp/test/qt/TQTcpServerTest_Qt5_automoc.cpp"
+},
+{
+  "directory": "/home/a/thrift/tutorial/cpp",
+  "command": "/usr/bin/c++    -fPIC  -I/home/a/thrift/tutorial/cpp -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/tutorial/cpp/gen-cpp -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/TutorialClient.dir/CppClient.cpp.o -c /home/a/thrift/tutorial/cpp/CppClient.cpp",
+  "file": "/home/a/thrift/tutorial/cpp/CppClient.cpp"
+},
+{
+  "directory": "/home/a/thrift/tutorial/cpp",
+  "command": "/usr/bin/c++    -fPIC  -I/home/a/thrift/tutorial/cpp -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/tutorial/cpp/gen-cpp -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/TutorialServer.dir/CppServer.cpp.o -c /home/a/thrift/tutorial/cpp/CppServer.cpp",
+  "file": "/home/a/thrift/tutorial/cpp/CppServer.cpp"
+},
+{
+  "directory": "/home/a/thrift/tutorial/cpp",
+  "command": "/usr/bin/c++    -fPIC  -I/home/a/thrift/tutorial/cpp -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/tutorial/cpp/gen-cpp -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/tutorialgencpp.dir/gen-cpp/Calculator.cpp.o -c /home/a/thrift/tutorial/cpp/gen-cpp/Calculator.cpp",
+  "file": "/home/a/thrift/tutorial/cpp/gen-cpp/Calculator.cpp"
+},
+{
+  "directory": "/home/a/thrift/tutorial/cpp",
+  "command": "/usr/bin/c++    -fPIC  -I/home/a/thrift/tutorial/cpp -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/tutorial/cpp/gen-cpp -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/tutorialgencpp.dir/gen-cpp/SharedService.cpp.o -c /home/a/thrift/tutorial/cpp/gen-cpp/SharedService.cpp",
+  "file": "/home/a/thrift/tutorial/cpp/gen-cpp/SharedService.cpp"
+},
+{
+  "directory": "/home/a/thrift/tutorial/cpp",
+  "command": "/usr/bin/c++    -fPIC  -I/home/a/thrift/tutorial/cpp -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/tutorial/cpp/gen-cpp -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/tutorialgencpp.dir/gen-cpp/shared_constants.cpp.o -c /home/a/thrift/tutorial/cpp/gen-cpp/shared_constants.cpp",
+  "file": "/home/a/thrift/tutorial/cpp/gen-cpp/shared_constants.cpp"
+},
+{
+  "directory": "/home/a/thrift/tutorial/cpp",
+  "command": "/usr/bin/c++    -fPIC  -I/home/a/thrift/tutorial/cpp -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/tutorial/cpp/gen-cpp -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/tutorialgencpp.dir/gen-cpp/shared_types.cpp.o -c /home/a/thrift/tutorial/cpp/gen-cpp/shared_types.cpp",
+  "file": "/home/a/thrift/tutorial/cpp/gen-cpp/shared_types.cpp"
+},
+{
+  "directory": "/home/a/thrift/tutorial/cpp",
+  "command": "/usr/bin/c++    -fPIC  -I/home/a/thrift/tutorial/cpp -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/tutorial/cpp/gen-cpp -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/tutorialgencpp.dir/gen-cpp/tutorial_constants.cpp.o -c /home/a/thrift/tutorial/cpp/gen-cpp/tutorial_constants.cpp",
+  "file": "/home/a/thrift/tutorial/cpp/gen-cpp/tutorial_constants.cpp"
+},
+{
+  "directory": "/home/a/thrift/tutorial/cpp",
+  "command": "/usr/bin/c++    -fPIC  -I/home/a/thrift/tutorial/cpp -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/tutorial/cpp/gen-cpp -I/home/a/thrift/lib/cpp/src    -o CMakeFiles/tutorialgencpp.dir/gen-cpp/tutorial_types.cpp.o -c /home/a/thrift/tutorial/cpp/gen-cpp/tutorial_types.cpp",
+  "file": "/home/a/thrift/tutorial/cpp/gen-cpp/tutorial_types.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/c_glib",
+  "command": "/usr/bin/cc  -Dthrift_c_glib_EXPORTS -fPIC -I/home/a/thrift/lib/c_glib -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/c_glib/src -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include    -o CMakeFiles/thrift_c_glib.dir/src/thrift/c_glib/thrift.c.o   -c /home/a/thrift/lib/c_glib/src/thrift/c_glib/thrift.c",
+  "file": "/home/a/thrift/lib/c_glib/src/thrift/c_glib/thrift.c"
+},
+{
+  "directory": "/home/a/thrift/lib/c_glib",
+  "command": "/usr/bin/cc  -Dthrift_c_glib_EXPORTS -fPIC -I/home/a/thrift/lib/c_glib -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/c_glib/src -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include    -o CMakeFiles/thrift_c_glib.dir/src/thrift/c_glib/thrift_struct.c.o   -c /home/a/thrift/lib/c_glib/src/thrift/c_glib/thrift_struct.c",
+  "file": "/home/a/thrift/lib/c_glib/src/thrift/c_glib/thrift_struct.c"
+},
+{
+  "directory": "/home/a/thrift/lib/c_glib",
+  "command": "/usr/bin/cc  -Dthrift_c_glib_EXPORTS -fPIC -I/home/a/thrift/lib/c_glib -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/c_glib/src -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include    -o CMakeFiles/thrift_c_glib.dir/src/thrift/c_glib/thrift_application_exception.c.o   -c /home/a/thrift/lib/c_glib/src/thrift/c_glib/thrift_application_exception.c",
+  "file": "/home/a/thrift/lib/c_glib/src/thrift/c_glib/thrift_application_exception.c"
+},
+{
+  "directory": "/home/a/thrift/lib/c_glib",
+  "command": "/usr/bin/cc  -Dthrift_c_glib_EXPORTS -fPIC -I/home/a/thrift/lib/c_glib -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/c_glib/src -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include    -o CMakeFiles/thrift_c_glib.dir/src/thrift/c_glib/processor/thrift_processor.c.o   -c /home/a/thrift/lib/c_glib/src/thrift/c_glib/processor/thrift_processor.c",
+  "file": "/home/a/thrift/lib/c_glib/src/thrift/c_glib/processor/thrift_processor.c"
+},
+{
+  "directory": "/home/a/thrift/lib/c_glib",
+  "command": "/usr/bin/cc  -Dthrift_c_glib_EXPORTS -fPIC -I/home/a/thrift/lib/c_glib -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/c_glib/src -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include    -o CMakeFiles/thrift_c_glib.dir/src/thrift/c_glib/processor/thrift_dispatch_processor.c.o   -c /home/a/thrift/lib/c_glib/src/thrift/c_glib/processor/thrift_dispatch_processor.c",
+  "file": "/home/a/thrift/lib/c_glib/src/thrift/c_glib/processor/thrift_dispatch_processor.c"
+},
+{
+  "directory": "/home/a/thrift/lib/c_glib",
+  "command": "/usr/bin/cc  -Dthrift_c_glib_EXPORTS -fPIC -I/home/a/thrift/lib/c_glib -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/c_glib/src -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include    -o CMakeFiles/thrift_c_glib.dir/src/thrift/c_glib/protocol/thrift_protocol.c.o   -c /home/a/thrift/lib/c_glib/src/thrift/c_glib/protocol/thrift_protocol.c",
+  "file": "/home/a/thrift/lib/c_glib/src/thrift/c_glib/protocol/thrift_protocol.c"
+},
+{
+  "directory": "/home/a/thrift/lib/c_glib",
+  "command": "/usr/bin/cc  -Dthrift_c_glib_EXPORTS -fPIC -I/home/a/thrift/lib/c_glib -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/c_glib/src -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include    -o CMakeFiles/thrift_c_glib.dir/src/thrift/c_glib/protocol/thrift_protocol_factory.c.o   -c /home/a/thrift/lib/c_glib/src/thrift/c_glib/protocol/thrift_protocol_factory.c",
+  "file": "/home/a/thrift/lib/c_glib/src/thrift/c_glib/protocol/thrift_protocol_factory.c"
+},
+{
+  "directory": "/home/a/thrift/lib/c_glib",
+  "command": "/usr/bin/cc  -Dthrift_c_glib_EXPORTS -fPIC -I/home/a/thrift/lib/c_glib -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/c_glib/src -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include    -o CMakeFiles/thrift_c_glib.dir/src/thrift/c_glib/protocol/thrift_binary_protocol.c.o   -c /home/a/thrift/lib/c_glib/src/thrift/c_glib/protocol/thrift_binary_protocol.c",
+  "file": "/home/a/thrift/lib/c_glib/src/thrift/c_glib/protocol/thrift_binary_protocol.c"
+},
+{
+  "directory": "/home/a/thrift/lib/c_glib",
+  "command": "/usr/bin/cc  -Dthrift_c_glib_EXPORTS -fPIC -I/home/a/thrift/lib/c_glib -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/c_glib/src -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include    -o CMakeFiles/thrift_c_glib.dir/src/thrift/c_glib/protocol/thrift_binary_protocol_factory.c.o   -c /home/a/thrift/lib/c_glib/src/thrift/c_glib/protocol/thrift_binary_protocol_factory.c",
+  "file": "/home/a/thrift/lib/c_glib/src/thrift/c_glib/protocol/thrift_binary_protocol_factory.c"
+},
+{
+  "directory": "/home/a/thrift/lib/c_glib",
+  "command": "/usr/bin/cc  -Dthrift_c_glib_EXPORTS -fPIC -I/home/a/thrift/lib/c_glib -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/c_glib/src -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include    -o CMakeFiles/thrift_c_glib.dir/src/thrift/c_glib/protocol/thrift_compact_protocol.c.o   -c /home/a/thrift/lib/c_glib/src/thrift/c_glib/protocol/thrift_compact_protocol.c",
+  "file": "/home/a/thrift/lib/c_glib/src/thrift/c_glib/protocol/thrift_compact_protocol.c"
+},
+{
+  "directory": "/home/a/thrift/lib/c_glib",
+  "command": "/usr/bin/cc  -Dthrift_c_glib_EXPORTS -fPIC -I/home/a/thrift/lib/c_glib -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/c_glib/src -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include    -o CMakeFiles/thrift_c_glib.dir/src/thrift/c_glib/protocol/thrift_compact_protocol_factory.c.o   -c /home/a/thrift/lib/c_glib/src/thrift/c_glib/protocol/thrift_compact_protocol_factory.c",
+  "file": "/home/a/thrift/lib/c_glib/src/thrift/c_glib/protocol/thrift_compact_protocol_factory.c"
+},
+{
+  "directory": "/home/a/thrift/lib/c_glib",
+  "command": "/usr/bin/cc  -Dthrift_c_glib_EXPORTS -fPIC -I/home/a/thrift/lib/c_glib -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/c_glib/src -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include    -o CMakeFiles/thrift_c_glib.dir/src/thrift/c_glib/transport/thrift_transport.c.o   -c /home/a/thrift/lib/c_glib/src/thrift/c_glib/transport/thrift_transport.c",
+  "file": "/home/a/thrift/lib/c_glib/src/thrift/c_glib/transport/thrift_transport.c"
+},
+{
+  "directory": "/home/a/thrift/lib/c_glib",
+  "command": "/usr/bin/cc  -Dthrift_c_glib_EXPORTS -fPIC -I/home/a/thrift/lib/c_glib -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/c_glib/src -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include    -o CMakeFiles/thrift_c_glib.dir/src/thrift/c_glib/transport/thrift_transport_factory.c.o   -c /home/a/thrift/lib/c_glib/src/thrift/c_glib/transport/thrift_transport_factory.c",
+  "file": "/home/a/thrift/lib/c_glib/src/thrift/c_glib/transport/thrift_transport_factory.c"
+},
+{
+  "directory": "/home/a/thrift/lib/c_glib",
+  "command": "/usr/bin/cc  -Dthrift_c_glib_EXPORTS -fPIC -I/home/a/thrift/lib/c_glib -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/c_glib/src -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include    -o CMakeFiles/thrift_c_glib.dir/src/thrift/c_glib/transport/thrift_buffered_transport_factory.c.o   -c /home/a/thrift/lib/c_glib/src/thrift/c_glib/transport/thrift_buffered_transport_factory.c",
+  "file": "/home/a/thrift/lib/c_glib/src/thrift/c_glib/transport/thrift_buffered_transport_factory.c"
+},
+{
+  "directory": "/home/a/thrift/lib/c_glib",
+  "command": "/usr/bin/cc  -Dthrift_c_glib_EXPORTS -fPIC -I/home/a/thrift/lib/c_glib -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/c_glib/src -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include    -o CMakeFiles/thrift_c_glib.dir/src/thrift/c_glib/transport/thrift_framed_transport_factory.c.o   -c /home/a/thrift/lib/c_glib/src/thrift/c_glib/transport/thrift_framed_transport_factory.c",
+  "file": "/home/a/thrift/lib/c_glib/src/thrift/c_glib/transport/thrift_framed_transport_factory.c"
+},
+{
+  "directory": "/home/a/thrift/lib/c_glib",
+  "command": "/usr/bin/cc  -Dthrift_c_glib_EXPORTS -fPIC -I/home/a/thrift/lib/c_glib -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/c_glib/src -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include    -o CMakeFiles/thrift_c_glib.dir/src/thrift/c_glib/transport/thrift_socket.c.o   -c /home/a/thrift/lib/c_glib/src/thrift/c_glib/transport/thrift_socket.c",
+  "file": "/home/a/thrift/lib/c_glib/src/thrift/c_glib/transport/thrift_socket.c"
+},
+{
+  "directory": "/home/a/thrift/lib/c_glib",
+  "command": "/usr/bin/cc  -Dthrift_c_glib_EXPORTS -fPIC -I/home/a/thrift/lib/c_glib -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/c_glib/src -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include    -o CMakeFiles/thrift_c_glib.dir/src/thrift/c_glib/transport/thrift_server_transport.c.o   -c /home/a/thrift/lib/c_glib/src/thrift/c_glib/transport/thrift_server_transport.c",
+  "file": "/home/a/thrift/lib/c_glib/src/thrift/c_glib/transport/thrift_server_transport.c"
+},
+{
+  "directory": "/home/a/thrift/lib/c_glib",
+  "command": "/usr/bin/cc  -Dthrift_c_glib_EXPORTS -fPIC -I/home/a/thrift/lib/c_glib -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/c_glib/src -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include    -o CMakeFiles/thrift_c_glib.dir/src/thrift/c_glib/transport/thrift_server_socket.c.o   -c /home/a/thrift/lib/c_glib/src/thrift/c_glib/transport/thrift_server_socket.c",
+  "file": "/home/a/thrift/lib/c_glib/src/thrift/c_glib/transport/thrift_server_socket.c"
+},
+{
+  "directory": "/home/a/thrift/lib/c_glib",
+  "command": "/usr/bin/cc  -Dthrift_c_glib_EXPORTS -fPIC -I/home/a/thrift/lib/c_glib -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/c_glib/src -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include    -o CMakeFiles/thrift_c_glib.dir/src/thrift/c_glib/transport/thrift_buffered_transport.c.o   -c /home/a/thrift/lib/c_glib/src/thrift/c_glib/transport/thrift_buffered_transport.c",
+  "file": "/home/a/thrift/lib/c_glib/src/thrift/c_glib/transport/thrift_buffered_transport.c"
+},
+{
+  "directory": "/home/a/thrift/lib/c_glib",
+  "command": "/usr/bin/cc  -Dthrift_c_glib_EXPORTS -fPIC -I/home/a/thrift/lib/c_glib -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/c_glib/src -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include    -o CMakeFiles/thrift_c_glib.dir/src/thrift/c_glib/transport/thrift_framed_transport.c.o   -c /home/a/thrift/lib/c_glib/src/thrift/c_glib/transport/thrift_framed_transport.c",
+  "file": "/home/a/thrift/lib/c_glib/src/thrift/c_glib/transport/thrift_framed_transport.c"
+},
+{
+  "directory": "/home/a/thrift/lib/c_glib",
+  "command": "/usr/bin/cc  -Dthrift_c_glib_EXPORTS -fPIC -I/home/a/thrift/lib/c_glib -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/c_glib/src -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include    -o CMakeFiles/thrift_c_glib.dir/src/thrift/c_glib/transport/thrift_memory_buffer.c.o   -c /home/a/thrift/lib/c_glib/src/thrift/c_glib/transport/thrift_memory_buffer.c",
+  "file": "/home/a/thrift/lib/c_glib/src/thrift/c_glib/transport/thrift_memory_buffer.c"
+},
+{
+  "directory": "/home/a/thrift/lib/c_glib",
+  "command": "/usr/bin/cc  -Dthrift_c_glib_EXPORTS -fPIC -I/home/a/thrift/lib/c_glib -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/c_glib/src -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include    -o CMakeFiles/thrift_c_glib.dir/src/thrift/c_glib/server/thrift_server.c.o   -c /home/a/thrift/lib/c_glib/src/thrift/c_glib/server/thrift_server.c",
+  "file": "/home/a/thrift/lib/c_glib/src/thrift/c_glib/server/thrift_server.c"
+},
+{
+  "directory": "/home/a/thrift/lib/c_glib",
+  "command": "/usr/bin/cc  -Dthrift_c_glib_EXPORTS -fPIC -I/home/a/thrift/lib/c_glib -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/c_glib/src -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include    -o CMakeFiles/thrift_c_glib.dir/src/thrift/c_glib/server/thrift_simple_server.c.o   -c /home/a/thrift/lib/c_glib/src/thrift/c_glib/server/thrift_simple_server.c",
+  "file": "/home/a/thrift/lib/c_glib/src/thrift/c_glib/server/thrift_simple_server.c"
+},
+{
+  "directory": "/home/a/thrift/lib/c_glib",
+  "command": "/usr/bin/cc   -I/home/a/thrift/lib/c_glib -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/c_glib/src -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include    -o CMakeFiles/thrift_c_glib_static.dir/src/thrift/c_glib/thrift.c.o   -c /home/a/thrift/lib/c_glib/src/thrift/c_glib/thrift.c",
+  "file": "/home/a/thrift/lib/c_glib/src/thrift/c_glib/thrift.c"
+},
+{
+  "directory": "/home/a/thrift/lib/c_glib",
+  "command": "/usr/bin/cc   -I/home/a/thrift/lib/c_glib -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/c_glib/src -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include    -o CMakeFiles/thrift_c_glib_static.dir/src/thrift/c_glib/thrift_struct.c.o   -c /home/a/thrift/lib/c_glib/src/thrift/c_glib/thrift_struct.c",
+  "file": "/home/a/thrift/lib/c_glib/src/thrift/c_glib/thrift_struct.c"
+},
+{
+  "directory": "/home/a/thrift/lib/c_glib",
+  "command": "/usr/bin/cc   -I/home/a/thrift/lib/c_glib -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/c_glib/src -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include    -o CMakeFiles/thrift_c_glib_static.dir/src/thrift/c_glib/thrift_application_exception.c.o   -c /home/a/thrift/lib/c_glib/src/thrift/c_glib/thrift_application_exception.c",
+  "file": "/home/a/thrift/lib/c_glib/src/thrift/c_glib/thrift_application_exception.c"
+},
+{
+  "directory": "/home/a/thrift/lib/c_glib",
+  "command": "/usr/bin/cc   -I/home/a/thrift/lib/c_glib -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/c_glib/src -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include    -o CMakeFiles/thrift_c_glib_static.dir/src/thrift/c_glib/processor/thrift_processor.c.o   -c /home/a/thrift/lib/c_glib/src/thrift/c_glib/processor/thrift_processor.c",
+  "file": "/home/a/thrift/lib/c_glib/src/thrift/c_glib/processor/thrift_processor.c"
+},
+{
+  "directory": "/home/a/thrift/lib/c_glib",
+  "command": "/usr/bin/cc   -I/home/a/thrift/lib/c_glib -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/c_glib/src -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include    -o CMakeFiles/thrift_c_glib_static.dir/src/thrift/c_glib/processor/thrift_dispatch_processor.c.o   -c /home/a/thrift/lib/c_glib/src/thrift/c_glib/processor/thrift_dispatch_processor.c",
+  "file": "/home/a/thrift/lib/c_glib/src/thrift/c_glib/processor/thrift_dispatch_processor.c"
+},
+{
+  "directory": "/home/a/thrift/lib/c_glib",
+  "command": "/usr/bin/cc   -I/home/a/thrift/lib/c_glib -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/c_glib/src -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include    -o CMakeFiles/thrift_c_glib_static.dir/src/thrift/c_glib/protocol/thrift_protocol.c.o   -c /home/a/thrift/lib/c_glib/src/thrift/c_glib/protocol/thrift_protocol.c",
+  "file": "/home/a/thrift/lib/c_glib/src/thrift/c_glib/protocol/thrift_protocol.c"
+},
+{
+  "directory": "/home/a/thrift/lib/c_glib",
+  "command": "/usr/bin/cc   -I/home/a/thrift/lib/c_glib -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/c_glib/src -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include    -o CMakeFiles/thrift_c_glib_static.dir/src/thrift/c_glib/protocol/thrift_protocol_factory.c.o   -c /home/a/thrift/lib/c_glib/src/thrift/c_glib/protocol/thrift_protocol_factory.c",
+  "file": "/home/a/thrift/lib/c_glib/src/thrift/c_glib/protocol/thrift_protocol_factory.c"
+},
+{
+  "directory": "/home/a/thrift/lib/c_glib",
+  "command": "/usr/bin/cc   -I/home/a/thrift/lib/c_glib -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/c_glib/src -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include    -o CMakeFiles/thrift_c_glib_static.dir/src/thrift/c_glib/protocol/thrift_binary_protocol.c.o   -c /home/a/thrift/lib/c_glib/src/thrift/c_glib/protocol/thrift_binary_protocol.c",
+  "file": "/home/a/thrift/lib/c_glib/src/thrift/c_glib/protocol/thrift_binary_protocol.c"
+},
+{
+  "directory": "/home/a/thrift/lib/c_glib",
+  "command": "/usr/bin/cc   -I/home/a/thrift/lib/c_glib -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/c_glib/src -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include    -o CMakeFiles/thrift_c_glib_static.dir/src/thrift/c_glib/protocol/thrift_binary_protocol_factory.c.o   -c /home/a/thrift/lib/c_glib/src/thrift/c_glib/protocol/thrift_binary_protocol_factory.c",
+  "file": "/home/a/thrift/lib/c_glib/src/thrift/c_glib/protocol/thrift_binary_protocol_factory.c"
+},
+{
+  "directory": "/home/a/thrift/lib/c_glib",
+  "command": "/usr/bin/cc   -I/home/a/thrift/lib/c_glib -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/c_glib/src -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include    -o CMakeFiles/thrift_c_glib_static.dir/src/thrift/c_glib/protocol/thrift_compact_protocol.c.o   -c /home/a/thrift/lib/c_glib/src/thrift/c_glib/protocol/thrift_compact_protocol.c",
+  "file": "/home/a/thrift/lib/c_glib/src/thrift/c_glib/protocol/thrift_compact_protocol.c"
+},
+{
+  "directory": "/home/a/thrift/lib/c_glib",
+  "command": "/usr/bin/cc   -I/home/a/thrift/lib/c_glib -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/c_glib/src -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include    -o CMakeFiles/thrift_c_glib_static.dir/src/thrift/c_glib/protocol/thrift_compact_protocol_factory.c.o   -c /home/a/thrift/lib/c_glib/src/thrift/c_glib/protocol/thrift_compact_protocol_factory.c",
+  "file": "/home/a/thrift/lib/c_glib/src/thrift/c_glib/protocol/thrift_compact_protocol_factory.c"
+},
+{
+  "directory": "/home/a/thrift/lib/c_glib",
+  "command": "/usr/bin/cc   -I/home/a/thrift/lib/c_glib -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/c_glib/src -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include    -o CMakeFiles/thrift_c_glib_static.dir/src/thrift/c_glib/transport/thrift_transport.c.o   -c /home/a/thrift/lib/c_glib/src/thrift/c_glib/transport/thrift_transport.c",
+  "file": "/home/a/thrift/lib/c_glib/src/thrift/c_glib/transport/thrift_transport.c"
+},
+{
+  "directory": "/home/a/thrift/lib/c_glib",
+  "command": "/usr/bin/cc   -I/home/a/thrift/lib/c_glib -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/c_glib/src -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include    -o CMakeFiles/thrift_c_glib_static.dir/src/thrift/c_glib/transport/thrift_transport_factory.c.o   -c /home/a/thrift/lib/c_glib/src/thrift/c_glib/transport/thrift_transport_factory.c",
+  "file": "/home/a/thrift/lib/c_glib/src/thrift/c_glib/transport/thrift_transport_factory.c"
+},
+{
+  "directory": "/home/a/thrift/lib/c_glib",
+  "command": "/usr/bin/cc   -I/home/a/thrift/lib/c_glib -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/c_glib/src -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include    -o CMakeFiles/thrift_c_glib_static.dir/src/thrift/c_glib/transport/thrift_buffered_transport_factory.c.o   -c /home/a/thrift/lib/c_glib/src/thrift/c_glib/transport/thrift_buffered_transport_factory.c",
+  "file": "/home/a/thrift/lib/c_glib/src/thrift/c_glib/transport/thrift_buffered_transport_factory.c"
+},
+{
+  "directory": "/home/a/thrift/lib/c_glib",
+  "command": "/usr/bin/cc   -I/home/a/thrift/lib/c_glib -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/c_glib/src -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include    -o CMakeFiles/thrift_c_glib_static.dir/src/thrift/c_glib/transport/thrift_framed_transport_factory.c.o   -c /home/a/thrift/lib/c_glib/src/thrift/c_glib/transport/thrift_framed_transport_factory.c",
+  "file": "/home/a/thrift/lib/c_glib/src/thrift/c_glib/transport/thrift_framed_transport_factory.c"
+},
+{
+  "directory": "/home/a/thrift/lib/c_glib",
+  "command": "/usr/bin/cc   -I/home/a/thrift/lib/c_glib -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/c_glib/src -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include    -o CMakeFiles/thrift_c_glib_static.dir/src/thrift/c_glib/transport/thrift_socket.c.o   -c /home/a/thrift/lib/c_glib/src/thrift/c_glib/transport/thrift_socket.c",
+  "file": "/home/a/thrift/lib/c_glib/src/thrift/c_glib/transport/thrift_socket.c"
+},
+{
+  "directory": "/home/a/thrift/lib/c_glib",
+  "command": "/usr/bin/cc   -I/home/a/thrift/lib/c_glib -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/c_glib/src -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include    -o CMakeFiles/thrift_c_glib_static.dir/src/thrift/c_glib/transport/thrift_server_transport.c.o   -c /home/a/thrift/lib/c_glib/src/thrift/c_glib/transport/thrift_server_transport.c",
+  "file": "/home/a/thrift/lib/c_glib/src/thrift/c_glib/transport/thrift_server_transport.c"
+},
+{
+  "directory": "/home/a/thrift/lib/c_glib",
+  "command": "/usr/bin/cc   -I/home/a/thrift/lib/c_glib -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/c_glib/src -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include    -o CMakeFiles/thrift_c_glib_static.dir/src/thrift/c_glib/transport/thrift_server_socket.c.o   -c /home/a/thrift/lib/c_glib/src/thrift/c_glib/transport/thrift_server_socket.c",
+  "file": "/home/a/thrift/lib/c_glib/src/thrift/c_glib/transport/thrift_server_socket.c"
+},
+{
+  "directory": "/home/a/thrift/lib/c_glib",
+  "command": "/usr/bin/cc   -I/home/a/thrift/lib/c_glib -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/c_glib/src -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include    -o CMakeFiles/thrift_c_glib_static.dir/src/thrift/c_glib/transport/thrift_buffered_transport.c.o   -c /home/a/thrift/lib/c_glib/src/thrift/c_glib/transport/thrift_buffered_transport.c",
+  "file": "/home/a/thrift/lib/c_glib/src/thrift/c_glib/transport/thrift_buffered_transport.c"
+},
+{
+  "directory": "/home/a/thrift/lib/c_glib",
+  "command": "/usr/bin/cc   -I/home/a/thrift/lib/c_glib -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/c_glib/src -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include    -o CMakeFiles/thrift_c_glib_static.dir/src/thrift/c_glib/transport/thrift_framed_transport.c.o   -c /home/a/thrift/lib/c_glib/src/thrift/c_glib/transport/thrift_framed_transport.c",
+  "file": "/home/a/thrift/lib/c_glib/src/thrift/c_glib/transport/thrift_framed_transport.c"
+},
+{
+  "directory": "/home/a/thrift/lib/c_glib",
+  "command": "/usr/bin/cc   -I/home/a/thrift/lib/c_glib -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/c_glib/src -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include    -o CMakeFiles/thrift_c_glib_static.dir/src/thrift/c_glib/transport/thrift_memory_buffer.c.o   -c /home/a/thrift/lib/c_glib/src/thrift/c_glib/transport/thrift_memory_buffer.c",
+  "file": "/home/a/thrift/lib/c_glib/src/thrift/c_glib/transport/thrift_memory_buffer.c"
+},
+{
+  "directory": "/home/a/thrift/lib/c_glib",
+  "command": "/usr/bin/cc   -I/home/a/thrift/lib/c_glib -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/c_glib/src -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include    -o CMakeFiles/thrift_c_glib_static.dir/src/thrift/c_glib/server/thrift_server.c.o   -c /home/a/thrift/lib/c_glib/src/thrift/c_glib/server/thrift_server.c",
+  "file": "/home/a/thrift/lib/c_glib/src/thrift/c_glib/server/thrift_server.c"
+},
+{
+  "directory": "/home/a/thrift/lib/c_glib",
+  "command": "/usr/bin/cc   -I/home/a/thrift/lib/c_glib -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/c_glib/src -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include    -o CMakeFiles/thrift_c_glib_static.dir/src/thrift/c_glib/server/thrift_simple_server.c.o   -c /home/a/thrift/lib/c_glib/src/thrift/c_glib/server/thrift_simple_server.c",
+  "file": "/home/a/thrift/lib/c_glib/src/thrift/c_glib/server/thrift_simple_server.c"
+},
+{
+  "directory": "/home/a/thrift/lib/c_glib/test",
+  "command": "/usr/bin/cc   -I/home/a/thrift/lib/c_glib/test -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/c_glib/src -I/home/a/thrift/test/c_glib/src -I/home/a/thrift/lib/c_glib/test/gen-c_glib -I/home/a/thrift/lib/cpp/src -I/home/a/thrift/lib/c_glib/test/gen-cpp -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include    -o CMakeFiles/testapplicationexception.dir/testapplicationexception.c.o   -c /home/a/thrift/lib/c_glib/test/testapplicationexception.c",
+  "file": "/home/a/thrift/lib/c_glib/test/testapplicationexception.c"
+},
+{
+  "directory": "/home/a/thrift/lib/c_glib/test",
+  "command": "/usr/bin/cc   -I/home/a/thrift/lib/c_glib/test -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/c_glib/src -I/home/a/thrift/test/c_glib/src -I/home/a/thrift/lib/c_glib/test/gen-c_glib -I/home/a/thrift/lib/cpp/src -I/home/a/thrift/lib/c_glib/test/gen-cpp -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include    -o CMakeFiles/testbinaryprotocol.dir/testbinaryprotocol.c.o   -c /home/a/thrift/lib/c_glib/test/testbinaryprotocol.c",
+  "file": "/home/a/thrift/lib/c_glib/test/testbinaryprotocol.c"
+},
+{
+  "directory": "/home/a/thrift/lib/c_glib/test",
+  "command": "/usr/bin/cc   -I/home/a/thrift/lib/c_glib/test -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/c_glib/src -I/home/a/thrift/test/c_glib/src -I/home/a/thrift/lib/c_glib/test/gen-c_glib -I/home/a/thrift/lib/cpp/src -I/home/a/thrift/lib/c_glib/test/gen-cpp -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include    -o CMakeFiles/testbufferedtransport.dir/testbufferedtransport.c.o   -c /home/a/thrift/lib/c_glib/test/testbufferedtransport.c",
+  "file": "/home/a/thrift/lib/c_glib/test/testbufferedtransport.c"
+},
+{
+  "directory": "/home/a/thrift/lib/c_glib/test",
+  "command": "/usr/bin/cc   -I/home/a/thrift/lib/c_glib/test -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/c_glib/src -I/home/a/thrift/test/c_glib/src -I/home/a/thrift/lib/c_glib/test/gen-c_glib -I/home/a/thrift/lib/cpp/src -I/home/a/thrift/lib/c_glib/test/gen-cpp -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include    -o CMakeFiles/testcompactprotocol.dir/testcompactprotocol.c.o   -c /home/a/thrift/lib/c_glib/test/testcompactprotocol.c",
+  "file": "/home/a/thrift/lib/c_glib/test/testcompactprotocol.c"
+},
+{
+  "directory": "/home/a/thrift/lib/c_glib/test",
+  "command": "/usr/bin/cc   -I/home/a/thrift/lib/c_glib/test -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/c_glib/src -I/home/a/thrift/test/c_glib/src -I/home/a/thrift/lib/c_glib/test/gen-c_glib -I/home/a/thrift/lib/cpp/src -I/home/a/thrift/lib/c_glib/test/gen-cpp -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include    -o CMakeFiles/testdebugproto.dir/testdebugproto.c.o   -c /home/a/thrift/lib/c_glib/test/testdebugproto.c",
+  "file": "/home/a/thrift/lib/c_glib/test/testdebugproto.c"
+},
+{
+  "directory": "/home/a/thrift/lib/c_glib/test",
+  "command": "/usr/bin/cc   -I/home/a/thrift/lib/c_glib/test -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/c_glib/src -I/home/a/thrift/test/c_glib/src -I/home/a/thrift/lib/c_glib/test/gen-c_glib -I/home/a/thrift/lib/cpp/src -I/home/a/thrift/lib/c_glib/test/gen-cpp -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include    -o CMakeFiles/testframedtransport.dir/testframedtransport.c.o   -c /home/a/thrift/lib/c_glib/test/testframedtransport.c",
+  "file": "/home/a/thrift/lib/c_glib/test/testframedtransport.c"
+},
+{
+  "directory": "/home/a/thrift/lib/c_glib/test",
+  "command": "/usr/bin/cc   -I/home/a/thrift/lib/c_glib/test -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/c_glib/src -I/home/a/thrift/test/c_glib/src -I/home/a/thrift/lib/c_glib/test/gen-c_glib -I/home/a/thrift/lib/cpp/src -I/home/a/thrift/lib/c_glib/test/gen-cpp -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include    -o CMakeFiles/testgenc.dir/gen-c_glib/t_test_debug_proto_test_types.c.o   -c /home/a/thrift/lib/c_glib/test/gen-c_glib/t_test_debug_proto_test_types.c",
+  "file": "/home/a/thrift/lib/c_glib/test/gen-c_glib/t_test_debug_proto_test_types.c"
+},
+{
+  "directory": "/home/a/thrift/lib/c_glib/test",
+  "command": "/usr/bin/cc   -I/home/a/thrift/lib/c_glib/test -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/c_glib/src -I/home/a/thrift/test/c_glib/src -I/home/a/thrift/lib/c_glib/test/gen-c_glib -I/home/a/thrift/lib/cpp/src -I/home/a/thrift/lib/c_glib/test/gen-cpp -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include    -o CMakeFiles/testgenc.dir/gen-c_glib/t_test_enum_test_types.c.o   -c /home/a/thrift/lib/c_glib/test/gen-c_glib/t_test_enum_test_types.c",
+  "file": "/home/a/thrift/lib/c_glib/test/gen-c_glib/t_test_enum_test_types.c"
+},
+{
+  "directory": "/home/a/thrift/lib/c_glib/test",
+  "command": "/usr/bin/cc   -I/home/a/thrift/lib/c_glib/test -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/c_glib/src -I/home/a/thrift/test/c_glib/src -I/home/a/thrift/lib/c_glib/test/gen-c_glib -I/home/a/thrift/lib/cpp/src -I/home/a/thrift/lib/c_glib/test/gen-cpp -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include    -o CMakeFiles/testgenc.dir/gen-c_glib/t_test_enum_test_service.c.o   -c /home/a/thrift/lib/c_glib/test/gen-c_glib/t_test_enum_test_service.c",
+  "file": "/home/a/thrift/lib/c_glib/test/gen-c_glib/t_test_enum_test_service.c"
+},
+{
+  "directory": "/home/a/thrift/lib/c_glib/test",
+  "command": "/usr/bin/cc   -I/home/a/thrift/lib/c_glib/test -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/c_glib/src -I/home/a/thrift/test/c_glib/src -I/home/a/thrift/lib/c_glib/test/gen-c_glib -I/home/a/thrift/lib/cpp/src -I/home/a/thrift/lib/c_glib/test/gen-cpp -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include    -o CMakeFiles/testgenc.dir/gen-c_glib/t_test_empty_service.c.o   -c /home/a/thrift/lib/c_glib/test/gen-c_glib/t_test_empty_service.c",
+  "file": "/home/a/thrift/lib/c_glib/test/gen-c_glib/t_test_empty_service.c"
+},
+{
+  "directory": "/home/a/thrift/lib/c_glib/test",
+  "command": "/usr/bin/cc   -I/home/a/thrift/lib/c_glib/test -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/c_glib/src -I/home/a/thrift/test/c_glib/src -I/home/a/thrift/lib/c_glib/test/gen-c_glib -I/home/a/thrift/lib/cpp/src -I/home/a/thrift/lib/c_glib/test/gen-cpp -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include    -o CMakeFiles/testgenc.dir/gen-c_glib/t_test_inherited.c.o   -c /home/a/thrift/lib/c_glib/test/gen-c_glib/t_test_inherited.c",
+  "file": "/home/a/thrift/lib/c_glib/test/gen-c_glib/t_test_inherited.c"
+},
+{
+  "directory": "/home/a/thrift/lib/c_glib/test",
+  "command": "/usr/bin/cc   -I/home/a/thrift/lib/c_glib/test -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/c_glib/src -I/home/a/thrift/test/c_glib/src -I/home/a/thrift/lib/c_glib/test/gen-c_glib -I/home/a/thrift/lib/cpp/src -I/home/a/thrift/lib/c_glib/test/gen-cpp -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include    -o CMakeFiles/testgenc.dir/gen-c_glib/t_test_optional_required_test_types.c.o   -c /home/a/thrift/lib/c_glib/test/gen-c_glib/t_test_optional_required_test_types.c",
+  "file": "/home/a/thrift/lib/c_glib/test/gen-c_glib/t_test_optional_required_test_types.c"
+},
+{
+  "directory": "/home/a/thrift/lib/c_glib/test",
+  "command": "/usr/bin/cc   -I/home/a/thrift/lib/c_glib/test -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/c_glib/src -I/home/a/thrift/test/c_glib/src -I/home/a/thrift/lib/c_glib/test/gen-c_glib -I/home/a/thrift/lib/cpp/src -I/home/a/thrift/lib/c_glib/test/gen-cpp -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include    -o CMakeFiles/testgenc.dir/gen-c_glib/t_test_reverse_order_service.c.o   -c /home/a/thrift/lib/c_glib/test/gen-c_glib/t_test_reverse_order_service.c",
+  "file": "/home/a/thrift/lib/c_glib/test/gen-c_glib/t_test_reverse_order_service.c"
+},
+{
+  "directory": "/home/a/thrift/lib/c_glib/test",
+  "command": "/usr/bin/cc   -I/home/a/thrift/lib/c_glib/test -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/c_glib/src -I/home/a/thrift/test/c_glib/src -I/home/a/thrift/lib/c_glib/test/gen-c_glib -I/home/a/thrift/lib/cpp/src -I/home/a/thrift/lib/c_glib/test/gen-cpp -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include    -o CMakeFiles/testgenc.dir/gen-c_glib/t_test_second_service.c.o   -c /home/a/thrift/lib/c_glib/test/gen-c_glib/t_test_second_service.c",
+  "file": "/home/a/thrift/lib/c_glib/test/gen-c_glib/t_test_second_service.c"
+},
+{
+  "directory": "/home/a/thrift/lib/c_glib/test",
+  "command": "/usr/bin/cc   -I/home/a/thrift/lib/c_glib/test -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/c_glib/src -I/home/a/thrift/test/c_glib/src -I/home/a/thrift/lib/c_glib/test/gen-c_glib -I/home/a/thrift/lib/cpp/src -I/home/a/thrift/lib/c_glib/test/gen-cpp -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include    -o CMakeFiles/testgenc.dir/gen-c_glib/t_test_service_for_exception_with_a_map.c.o   -c /home/a/thrift/lib/c_glib/test/gen-c_glib/t_test_service_for_exception_with_a_map.c",
+  "file": "/home/a/thrift/lib/c_glib/test/gen-c_glib/t_test_service_for_exception_with_a_map.c"
+},
+{
+  "directory": "/home/a/thrift/lib/c_glib/test",
+  "command": "/usr/bin/cc   -I/home/a/thrift/lib/c_glib/test -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/c_glib/src -I/home/a/thrift/test/c_glib/src -I/home/a/thrift/lib/c_glib/test/gen-c_glib -I/home/a/thrift/lib/cpp/src -I/home/a/thrift/lib/c_glib/test/gen-cpp -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include    -o CMakeFiles/testgenc.dir/gen-c_glib/t_test_srv.c.o   -c /home/a/thrift/lib/c_glib/test/gen-c_glib/t_test_srv.c",
+  "file": "/home/a/thrift/lib/c_glib/test/gen-c_glib/t_test_srv.c"
+},
+{
+  "directory": "/home/a/thrift/lib/c_glib/test",
+  "command": "/usr/bin/cc   -I/home/a/thrift/lib/c_glib/test -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/c_glib/src -I/home/a/thrift/test/c_glib/src -I/home/a/thrift/lib/c_glib/test/gen-c_glib -I/home/a/thrift/lib/cpp/src -I/home/a/thrift/lib/c_glib/test/gen-cpp -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include    -o CMakeFiles/testgenc.dir/gen-c_glib/t_test_thrift_test.c.o   -c /home/a/thrift/lib/c_glib/test/gen-c_glib/t_test_thrift_test.c",
+  "file": "/home/a/thrift/lib/c_glib/test/gen-c_glib/t_test_thrift_test.c"
+},
+{
+  "directory": "/home/a/thrift/lib/c_glib/test",
+  "command": "/usr/bin/cc   -I/home/a/thrift/lib/c_glib/test -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/c_glib/src -I/home/a/thrift/test/c_glib/src -I/home/a/thrift/lib/c_glib/test/gen-c_glib -I/home/a/thrift/lib/cpp/src -I/home/a/thrift/lib/c_glib/test/gen-cpp -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include    -o CMakeFiles/testgenc.dir/gen-c_glib/t_test_thrift_test_types.c.o   -c /home/a/thrift/lib/c_glib/test/gen-c_glib/t_test_thrift_test_types.c",
+  "file": "/home/a/thrift/lib/c_glib/test/gen-c_glib/t_test_thrift_test_types.c"
+},
+{
+  "directory": "/home/a/thrift/lib/c_glib/test",
+  "command": "/usr/bin/c++    -fPIC  -I/home/a/thrift/lib/c_glib/test -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/c_glib/src -I/home/a/thrift/test/c_glib/src -I/home/a/thrift/lib/c_glib/test/gen-c_glib -I/home/a/thrift/lib/cpp/src -I/home/a/thrift/lib/c_glib/test/gen-cpp -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include    -o CMakeFiles/testgenc_cpp.dir/gen-cpp/ThriftTest.cpp.o -c /home/a/thrift/lib/c_glib/test/gen-cpp/ThriftTest.cpp",
+  "file": "/home/a/thrift/lib/c_glib/test/gen-cpp/ThriftTest.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/c_glib/test",
+  "command": "/usr/bin/c++    -fPIC  -I/home/a/thrift/lib/c_glib/test -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/c_glib/src -I/home/a/thrift/test/c_glib/src -I/home/a/thrift/lib/c_glib/test/gen-c_glib -I/home/a/thrift/lib/cpp/src -I/home/a/thrift/lib/c_glib/test/gen-cpp -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include    -o CMakeFiles/testgenc_cpp.dir/gen-cpp/ThriftTest_constants.cpp.o -c /home/a/thrift/lib/c_glib/test/gen-cpp/ThriftTest_constants.cpp",
+  "file": "/home/a/thrift/lib/c_glib/test/gen-cpp/ThriftTest_constants.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/c_glib/test",
+  "command": "/usr/bin/c++    -fPIC  -I/home/a/thrift/lib/c_glib/test -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/c_glib/src -I/home/a/thrift/test/c_glib/src -I/home/a/thrift/lib/c_glib/test/gen-c_glib -I/home/a/thrift/lib/cpp/src -I/home/a/thrift/lib/c_glib/test/gen-cpp -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include    -o CMakeFiles/testgenc_cpp.dir/gen-cpp/ThriftTest_types.cpp.o -c /home/a/thrift/lib/c_glib/test/gen-cpp/ThriftTest_types.cpp",
+  "file": "/home/a/thrift/lib/c_glib/test/gen-cpp/ThriftTest_types.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/c_glib/test",
+  "command": "/usr/bin/cc   -I/home/a/thrift/lib/c_glib/test -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/c_glib/src -I/home/a/thrift/test/c_glib/src -I/home/a/thrift/lib/c_glib/test/gen-c_glib -I/home/a/thrift/lib/cpp/src -I/home/a/thrift/lib/c_glib/test/gen-cpp -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include    -o CMakeFiles/testmemorybuffer.dir/testmemorybuffer.c.o   -c /home/a/thrift/lib/c_glib/test/testmemorybuffer.c",
+  "file": "/home/a/thrift/lib/c_glib/test/testmemorybuffer.c"
+},
+{
+  "directory": "/home/a/thrift/lib/c_glib/test",
+  "command": "/usr/bin/cc   -I/home/a/thrift/lib/c_glib/test -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/c_glib/src -I/home/a/thrift/test/c_glib/src -I/home/a/thrift/lib/c_glib/test/gen-c_glib -I/home/a/thrift/lib/cpp/src -I/home/a/thrift/lib/c_glib/test/gen-cpp -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include    -o CMakeFiles/testoptionalrequired.dir/testoptionalrequired.c.o   -c /home/a/thrift/lib/c_glib/test/testoptionalrequired.c",
+  "file": "/home/a/thrift/lib/c_glib/test/testoptionalrequired.c"
+},
+{
+  "directory": "/home/a/thrift/lib/c_glib/test",
+  "command": "/usr/bin/cc   -I/home/a/thrift/lib/c_glib/test -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/c_glib/src -I/home/a/thrift/test/c_glib/src -I/home/a/thrift/lib/c_glib/test/gen-c_glib -I/home/a/thrift/lib/cpp/src -I/home/a/thrift/lib/c_glib/test/gen-cpp -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include    -o CMakeFiles/testserialization.dir/testserialization.c.o   -c /home/a/thrift/lib/c_glib/test/testserialization.c",
+  "file": "/home/a/thrift/lib/c_glib/test/testserialization.c"
+},
+{
+  "directory": "/home/a/thrift/lib/c_glib/test",
+  "command": "/usr/bin/cc   -I/home/a/thrift/lib/c_glib/test -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/c_glib/src -I/home/a/thrift/test/c_glib/src -I/home/a/thrift/lib/c_glib/test/gen-c_glib -I/home/a/thrift/lib/cpp/src -I/home/a/thrift/lib/c_glib/test/gen-cpp -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include    -o CMakeFiles/testsimpleserver.dir/testsimpleserver.c.o   -c /home/a/thrift/lib/c_glib/test/testsimpleserver.c",
+  "file": "/home/a/thrift/lib/c_glib/test/testsimpleserver.c"
+},
+{
+  "directory": "/home/a/thrift/lib/c_glib/test",
+  "command": "/usr/bin/cc   -I/home/a/thrift/lib/c_glib/test -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/c_glib/src -I/home/a/thrift/test/c_glib/src -I/home/a/thrift/lib/c_glib/test/gen-c_glib -I/home/a/thrift/lib/cpp/src -I/home/a/thrift/lib/c_glib/test/gen-cpp -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include    -o CMakeFiles/testthrifttest.dir/testthrifttest.c.o   -c /home/a/thrift/lib/c_glib/test/testthrifttest.c",
+  "file": "/home/a/thrift/lib/c_glib/test/testthrifttest.c"
+},
+{
+  "directory": "/home/a/thrift/lib/c_glib/test",
+  "command": "/usr/bin/cc   -I/home/a/thrift/lib/c_glib/test -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/c_glib/src -I/home/a/thrift/test/c_glib/src -I/home/a/thrift/lib/c_glib/test/gen-c_glib -I/home/a/thrift/lib/cpp/src -I/home/a/thrift/lib/c_glib/test/gen-cpp -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include    -o CMakeFiles/testthrifttest.dir/__/__/__/test/c_glib/src/thrift_test_handler.c.o   -c /home/a/thrift/test/c_glib/src/thrift_test_handler.c",
+  "file": "/home/a/thrift/test/c_glib/src/thrift_test_handler.c"
+},
+{
+  "directory": "/home/a/thrift/lib/c_glib/test",
+  "command": "/usr/bin/c++    -fPIC  -I/home/a/thrift/lib/c_glib/test -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/c_glib/src -I/home/a/thrift/test/c_glib/src -I/home/a/thrift/lib/c_glib/test/gen-c_glib -I/home/a/thrift/lib/cpp/src -I/home/a/thrift/lib/c_glib/test/gen-cpp -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include    -o CMakeFiles/testthrifttestclient.dir/testthrifttestclient.cpp.o -c /home/a/thrift/lib/c_glib/test/testthrifttestclient.cpp",
+  "file": "/home/a/thrift/lib/c_glib/test/testthrifttestclient.cpp"
+},
+{
+  "directory": "/home/a/thrift/lib/c_glib/test",
+  "command": "/usr/bin/cc   -I/home/a/thrift/lib/c_glib/test -I/home/a/thrift/thrift -I/home/a/thrift -I/home/a/thrift/lib/c_glib/src -I/home/a/thrift/test/c_glib/src -I/home/a/thrift/lib/c_glib/test/gen-c_glib -I/home/a/thrift/lib/cpp/src -I/home/a/thrift/lib/c_glib/test/gen-cpp -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include    -o CMakeFiles/testtransportsocket.dir/testtransportsocket.c.o   -c /home/a/thrift/lib/c_glib/test/testtransportsocket.c",
+  "file": "/home/a/thrift/lib/c_glib/test/testtransportsocket.c"
+}
+]

@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/testtransportsocket.dir/testtransportsocket.c.o  -o ../../../bin/testtransportsocket -rdynamic ../../libthrift_c_glib.so.1.0.0 -lglib-2.0 -lgobject-2.0 -Wl,-rpath,/home/a/thrift/lib 
