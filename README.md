@@ -28,7 +28,15 @@ https://github.com/antlr/antlr3
 Then ran
 ```
 sudo apt-get install libaio-dev ninja-build ragel libhwloc-dev libnuma-dev libpciaccess-dev libcrypto++-dev libboost-all-dev libxen-dev libxml2-dev xfslibs-dev g++ libsystemd0 libgnutls-dev libsystemd-dev liblz4-dev libsnappy-dev
-libnuma-dev numactl libjsoncpp-dev libaio-dev
+libnuma-dev numactl libjsoncpp-dev libaio-dev clang
+update-alternatives --config c++
+#NOW SELECT CLANG (ABI breaks in newer versions of linux)
+cd yaml-cpp
+mkdir build
+cmake -DBUILD_SHARED_LIBS=ON
+make
+make install
+cd ..
 ./configure.py --mode=release --with=scylla --disable-xen --cflags="-I/usr/include -Iantlr3/runtime/Cpp/include"
 ```
 Then had to manually remove -Werror from a couple of locations in build.ninja
