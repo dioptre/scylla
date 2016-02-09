@@ -1,5 +1,56 @@
 #Scylla
 
+##Why is this here?
+If you were like me you'd fond Scylla deb packages broken, and if you looked for alternatives theres nothing available for Ubuntu/debian elsewhere - I gave it an hour - and then gave up - but ping me if you get further :) - I hope this helps!
+
+##Ubuntu Notes
+
+Had to manually get thrift and antlr3 packs
+```
+https://github.com/apache/thrift
+```
+thrift compile only worked with cmake
+It wouldn't build on clang
+Thrift only worked with these options:
+```
+CXXFLAGS="-fPIC" cmake .
+make
+make install
+```
+Other people reported this was necessary:
+CPPFLAGS='-DHAVE_CONFIG_H'
+But didnt work: ./configure --with-cpp=yes --with-nodejs=no --with-python=no
+
+Included also here:
+```
+https://github.com/antlr/antlr3
+```
+Then ran
+```
+sudo apt-get install libaio-dev ninja-build ragel libhwloc-dev libnuma-dev libpciaccess-dev libcrypto++-dev libboost-all-dev libxen-dev libxml2-dev xfslibs-dev g++ libsystemd0 libgnutls-dev libsystemd-dev liblz4-dev libsnappy-dev
+libnuma-dev numactl libjsoncpp-dev libaio-dev clang
+update-alternatives --config c++
+#NOW SELECT CLANG (ABI breaks in newer versions of linux)
+cd yaml-cpp
+mkdir build
+cmake -DBUILD_SHARED_LIBS=ON
+make
+make install
+cd ..
+./configure.py --mode=release --with=scylla --disable-xen --cflags="-I/usr/include -Iantlr3/runtime/Cpp/include"
+```
+Then had to manually remove -Werror from a couple of locations in build.ninja
+```
+ninja build/release/scylla -j2
+```
+It looks like clang is incompatible on my machine due to the new cx11 ABI, so use g++
+
+
+##Currently having too mamy build errors
+...
+Coming
+...
+
 ##Building Scylla
 
 In addition to required packages by Seastar, the following packages are required by Scylla.
