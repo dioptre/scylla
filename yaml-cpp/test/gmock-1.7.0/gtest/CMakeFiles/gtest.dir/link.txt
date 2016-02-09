@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC -std=c++11 -fPIC -shared -O3 -Wall -Ipath/to/the/header  -O2  -shared -Wl,-soname,libgtest.so -o libgtest.so CMakeFiles/gtest.dir/src/gtest-all.cc.o  -L/home/a/scylla/yaml-cpp/test/gmock-1.7.0/gtest/src -lpthread -Wl,-rpath,/home/a/scylla/yaml-cpp/test/gmock-1.7.0/gtest/src 

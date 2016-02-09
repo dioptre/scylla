@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11 -fPIC -shared -O3 -Wall -Ipath/to/the/header  -O2   CMakeFiles/parse.dir/parse.cpp.o  -o parse -rdynamic ../libyaml-cpp.so.0.5.3 -Wl,-rpath,/home/a/scylla/yaml-cpp 

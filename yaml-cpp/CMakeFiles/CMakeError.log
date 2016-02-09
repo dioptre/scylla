@@ -1,0 +1,57 @@
+Determining if the pthread_create exist failed with the following output:
+Change Dir: /home/a/scylla/yaml-cpp/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTryCompileExec3675944148/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec3675944148.dir/build.make CMakeFiles/cmTryCompileExec3675944148.dir/build
+make[1]: Entering directory '/home/a/scylla/yaml-cpp/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/a/scylla/yaml-cpp/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec3675944148.dir/CheckSymbolExists.c.o
+/usr/bin/cc    -o CMakeFiles/cmTryCompileExec3675944148.dir/CheckSymbolExists.c.o   -c /home/a/scylla/yaml-cpp/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+Linking C executable cmTryCompileExec3675944148
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec3675944148.dir/link.txt --verbose=1
+/usr/bin/cc       CMakeFiles/cmTryCompileExec3675944148.dir/CheckSymbolExists.c.o  -o cmTryCompileExec3675944148 -rdynamic 
+CMakeFiles/cmTryCompileExec3675944148.dir/CheckSymbolExists.c.o: In function `main':
+CheckSymbolExists.c:(.text+0x16): undefined reference to `pthread_create'
+collect2: error: ld returned 1 exit status
+CMakeFiles/cmTryCompileExec3675944148.dir/build.make:88: recipe for target 'cmTryCompileExec3675944148' failed
+make[1]: *** [cmTryCompileExec3675944148] Error 1
+make[1]: Leaving directory '/home/a/scylla/yaml-cpp/CMakeFiles/CMakeTmp'
+Makefile:117: recipe for target 'cmTryCompileExec3675944148/fast' failed
+make: *** [cmTryCompileExec3675944148/fast] Error 2
+
+File /home/a/scylla/yaml-cpp/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <pthread.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef pthread_create
+  return ((int*)(&pthread_create))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the function pthread_create exists in the pthreads failed with the following output:
+Change Dir: /home/a/scylla/yaml-cpp/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTryCompileExec4140353936/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec4140353936.dir/build.make CMakeFiles/cmTryCompileExec4140353936.dir/build
+make[1]: Entering directory '/home/a/scylla/yaml-cpp/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/a/scylla/yaml-cpp/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec4140353936.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=pthread_create   -o CMakeFiles/cmTryCompileExec4140353936.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-3.2/Modules/CheckFunctionExists.c
+Linking C executable cmTryCompileExec4140353936
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec4140353936.dir/link.txt --verbose=1
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=pthread_create    CMakeFiles/cmTryCompileExec4140353936.dir/CheckFunctionExists.c.o  -o cmTryCompileExec4140353936 -rdynamic -lpthreads 
+/usr/bin/ld: cannot find -lpthreads
+collect2: error: ld returned 1 exit status
+CMakeFiles/cmTryCompileExec4140353936.dir/build.make:88: recipe for target 'cmTryCompileExec4140353936' failed
+make[1]: *** [cmTryCompileExec4140353936] Error 1
+make[1]: Leaving directory '/home/a/scylla/yaml-cpp/CMakeFiles/CMakeTmp'
+Makefile:117: recipe for target 'cmTryCompileExec4140353936/fast' failed
+make: *** [cmTryCompileExec4140353936/fast] Error 2
+
+
